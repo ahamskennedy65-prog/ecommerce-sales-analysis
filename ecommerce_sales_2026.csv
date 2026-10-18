@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Discount,Sales,Payment_Method
+100001,2026-01-01,Kristýna Blažek,Mechanical Keyboard,Accessories,Brno,1,1732.86,0,1732.86,Card
+100002,2026-01-02,Jana Pospíšil,Desk Lamp,Office,Olomouc,1,641.92,15,545.63,Cash
+100003,2026-01-02,Amina Černý,Office Chair,Office,Ostrava,2,5550.3,0,11100.6,Bank Transfer
+100004,2026-01-02,Klára Pospíšil,Power Bank,Mobile,Ostrava,3,837.52,0,2512.56,PayPal
+100005,2026-01-02,Monika Kučera,Notebook,Office,Liberec,8,92.1,10,663.12,PayPal
+100006,2026-01-03,Ondřej Jelínek,Laptop Air 13,Electronics,Plzeň,1,25559.13,5,24281.17,Bank Transfer
+100007,2026-01-03,Kateřina Okafor,Desk Lamp,Office,Plzeň,1,679.89,0,679.89,PayPal
+100008,2026-01-03,Jana Kadlec,Noise-Cancelling Headphones,Audio,Ostrava,2,4188.2,0,8376.4,PayPal
+100009,2026-01-03,Petr Beneš,Power Bank,Mobile,Prague,5,885.88,0,4429.4,Bank Transfer
+100010,2026-01-03,Hana Marek,Mechanical Keyboard,Accessories,Prague,2,1796.47,0,3592.94,Bank Transfer
+100011,2026-01-04,Ondřej Jelínek,USB-C Hub,Accessories,Plzeň,1,912.39,0,912.39,Card
+100012,2026-01-04,Lukáš Procházka,Mechanical Keyboard,Accessories,Brno,2,1681.02,0,3362.04,Card
+100013,2026-01-04,Tomáš Jelínek,Wireless Mouse,Accessories,Prague,1,479.05,0,479.05,Cash
+100014,2026-01-05,Marek Schmidt,Wireless Mouse,Accessories,Ostrava,1,454.82,0,454.82,PayPal
+100015,2026-01-05,Filip Pospíšil,Mechanical Keyboard,Accessories,Prague,5,1880.56,0,9402.8,Bank Transfer
+100016,2026-01-06,Chinedu López,Wireless Mouse,Accessories,Brno,1,439.13,15,373.26,Bank Transfer
+100017,2026-01-06,Ifeoma Kučera,Smartphone X,Mobile,Ostrava,1,20403.81,0,20403.81,Bank Transfer
+100018,2026-01-07,Denisa Musa,Power Bank,Mobile,Prague,5,855.89,0,4279.45,Bank Transfer
+100019,2026-01-07,Kristýna Růžička,Backpack,Accessories,Plzeň,1,1149.37,0,1149.37,Card
+100020,2026-01-07,Jan Bianchi,Backpack,Accessories,Brno,1,1107.19,0,1107.19,Bank Transfer
+100021,2026-01-07,Nikola Hájek,USB-C Hub,Accessories,Brno,2,844.02,0,1688.04,Card
+100022,2026-01-08,Veronika Bartoš,Bluetooth Speaker,Audio,Prague,2,1585.94,0,3171.88,Bank Transfer
+100023,2026-01-08,Vojtěch Sedláček,Noise-Cancelling Headphones,Audio,Olomouc,4,4081.62,5,15510.16,Bank Transfer
+100024,2026-01-09,Hana Marek,Monitor 27,Electronics,Ostrava,4,6597.23,15,22430.58,Card
+100025,2026-01-09,Kristýna Ibrahim,Mechanical Keyboard,Accessories,Prague,1,1814.45,5,1723.73,PayPal
+100026,2026-01-09,Karel Procházka,Noise-Cancelling Headphones,Audio,Plzeň,2,3984.04,5,7569.68,Card
+100027,2026-01-10,Fatima Adeyemi,Power Bank,Mobile,Ostrava,1,828.01,0,828.01,PayPal
+100028,2026-01-10,Ondřej Jelínek,Backpack,Accessories,Brno,3,1033.12,0,3099.36,Card
+100029,2026-01-10,Jakub Blažek,Phone Case,Mobile,Liberec,4,319.67,0,1278.68,Bank Transfer
+100030,2026-01-11,Veronika Novotný,Smartphone Lite,Mobile,Brno,1,9854.8,0,9854.8,Card
+100031,2026-01-11,Marek Schmidt,Smartphone Lite,Mobile,Zlín,3,9230.77,0,27692.31,Bank Transfer
+100032,2026-01-11,Fatima Adeyemi,Bluetooth Speaker,Audio,Prague,1,1591.11,0,1591.11,Card
+100033,2026-01-11,Tomáš Král,Wireless Mouse,Accessories,Brno,1,439.78,0,439.78,Card
+100034,2026-01-12,Kristýna Jelínek,External SSD 1TB,Storage,Zlín,1,2351.83,0,2351.83,Bank Transfer
+100035,2026-01-12,Tereza Pospíšil,Notebook,Office,Olomouc,2,86.88,5,165.07,PayPal
+100036,2026-01-12,Monika Kučera,Bluetooth Speaker,Audio,Zlín,1,1438.93,10,1295.04,PayPal
+100037,2026-01-12,Marek Fiala,Power Bank,Mobile,Prague,1,841.41,5,799.34,Cash
+100038,2026-01-12,Chinedu López,External SSD 1TB,Storage,Liberec,2,2310.24,0,4620.48,PayPal
+100039,2026-01-12,Luca Dvořák,Wireless Mouse,Accessories,Olomouc,1,468.65,0,468.65,Card
+100040,2026-01-13,Ondřej Bartoš,USB-C Hub,Accessories,Ostrava,2,896.65,10,1613.97,Card
+100041,2026-01-14,Alena Ibrahim,Laptop Pro 14,Electronics,Brno,3,34237.58,10,92441.47,Card
+100042,2026-01-14,Marie Okafor,External SSD 1TB,Storage,Prague,2,2280.71,10,4105.28,Card
+100043,2026-01-14,Michal Kučera,Bluetooth Speaker,Audio,Plzeň,2,1466.9,0,2933.8,Bank Transfer
+100044,2026-01-14,Sofia Černý,Wireless Mouse,Accessories,Plzeň,1,434.79,0,434.79,Bank Transfer
+100045,2026-01-14,Milan Dvořák,Phone Case,Mobile,Brno,4,297.62,20,952.38,Cash
+100046,2026-01-14,Elena Zeman,Notebook,Office,Prague,2,89.47,5,169.99,Bank Transfer
+100047,2026-01-14,Zdeněk Veselý,Notebook,Office,Ostrava,2,89.3,0,178.6,Card
+100048,2026-01-14,Jan Procházka,Desk Lamp,Office,Ostrava,4,653.06,0,2612.24,Bank Transfer
+100049,2026-01-14,Jan Zeman,Wireless Mouse,Accessories,Prague,1,473.59,5,449.91,Cash
+100050,2026-01-14,Chinedu Navrátil,Wireless Mouse,Accessories,Prague,3,420.55,5,1198.57,PayPal
+100051,2026-01-14,David Růžička,External SSD 1TB,Storage,Zlín,2,2223.34,0,4446.68,Card
+100052,2026-01-15,Radek Král,External SSD 1TB,Storage,Prague,1,2319.45,10,2087.5,Card
+100053,2026-01-15,Sofia Kučera,Power Bank,Mobile,Prague,2,866.87,5,1647.05,Card
+100054,2026-01-15,Pavel Bianchi,Smartphone Lite,Mobile,Plzeň,5,10164.62,0,50823.1,Cash
+100055,2026-01-15,David Růžička,Laptop Air 13,Electronics,Brno,1,27475.68,10,24728.11,Bank Transfer
+100056,2026-01-16,Monika Horák,Mechanical Keyboard,Accessories,Brno,2,1917.54,0,3835.08,Card
+100057,2026-01-16,Kristýna Pospíšil,USB-C Hub,Accessories,Prague,2,849.78,0,1699.56,Card
+100058,2026-01-16,Kwame Bartoš,Mechanical Keyboard,Accessories,Prague,1,1754.74,10,1579.27,Bank Transfer
+100059,2026-01-16,Adéla Čermák,Bluetooth Speaker,Audio,Prague,1,1581.42,0,1581.42,PayPal
+100060,2026-01-16,Nikola Musa,Smartphone X,Mobile,Prague,1,21068.8,5,20015.36,Card
+100061,2026-01-16,Petra Kadlec,Wireless Mouse,Accessories,Plzeň,2,447.75,10,805.95,Card
+100062,2026-01-17,Kateřina Beneš,Smartphone Lite,Mobile,Brno,1,9830.19,0,9830.19,Bank Transfer
+100063,2026-01-17,Ifeoma Procházka,Laptop Pro 14,Electronics,Plzeň,1,31593.14,5,30013.48,Card
+100064,2026-01-17,Adéla Čermák,Phone Case,Mobile,Olomouc,3,320.87,0,962.61,Card
+100065,2026-01-17,Jana Černý,USB-C Hub,Accessories,Plzeň,1,939.04,5,892.09,Bank Transfer
+100066,2026-01-18,Tereza Černý,Laptop Air 13,Electronics,Brno,4,25346.83,0,101387.32,Card
+100067,2026-01-18,Ondřej Jelínek,Mechanical Keyboard,Accessories,Brno,2,1792.39,0,3584.78,Card
+100068,2026-01-18,Adéla Čermák,Backpack,Accessories,Olomouc,1,1123.52,0,1123.52,Card
+100069,2026-01-18,Nikola Hájek,Backpack,Accessories,Ostrava,1,1085.3,0,1085.3,Cash
+100070,2026-01-18,Petr Procházka,USB-C Hub,Accessories,Ostrava,1,897.21,5,852.35,PayPal
+100071,2026-01-18,Denisa Doležal,Smartphone Lite,Mobile,Prague,3,9532.9,0,28598.7,Card
+100072,2026-01-19,Martin Rossi,External SSD 1TB,Storage,Brno,2,2274.6,0,4549.2,Card
+100073,2026-01-19,Denisa Ibrahim,Power Bank,Mobile,Olomouc,3,829.37,10,2239.3,Cash
+100074,2026-01-19,Lucie Kadlec,Backpack,Accessories,Prague,4,1075.51,0,4302.04,PayPal
+100075,2026-01-19,Adéla Čermák,Bluetooth Speaker,Audio,Brno,1,1579.33,10,1421.4,Card
+100076,2026-01-20,Vojtěch Kolář,Wireless Mouse,Accessories,Prague,2,460.63,10,829.13,Card
+100077,2026-01-20,Chinedu Růžička,Power Bank,Mobile,Plzeň,1,872.99,0,872.99,PayPal
+100078,2026-01-20,Denisa Ibrahim,Smartphone Lite,Mobile,Plzeň,1,9153.96,0,9153.96,Card
+100079,2026-01-22,Eva Navrátil,Noise-Cancelling Headphones,Audio,Zlín,1,4483.64,0,4483.64,PayPal
+100080,2026-01-22,Luca Dvořák,Wireless Mouse,Accessories,Ostrava,5,480.77,10,2163.46,Bank Transfer
+100081,2026-01-22,Luca Beneš,Wireless Mouse,Accessories,Ostrava,3,472.57,0,1417.71,Card
+100082,2026-01-22,Nikola Musa,Mechanical Keyboard,Accessories,Ostrava,1,1772.1,0,1772.1,Card
+100083,2026-01-22,Tomáš López,Desk Lamp,Office,Brno,5,629.37,0,3146.85,Cash
+100084,2026-01-23,Klára Pospíšil,Noise-Cancelling Headphones,Audio,Zlín,3,4123.94,15,10516.05,PayPal
+100085,2026-01-23,Marek Müller,Bluetooth Speaker,Audio,Brno,3,1517.8,20,3642.72,Card
+100086,2026-01-23,Petra Beneš,Monitor 27,Electronics,Ostrava,2,6577.88,0,13155.76,PayPal
+100087,2026-01-23,Milan Blažek,Smartphone X,Mobile,Prague,3,22220.51,5,63328.45,PayPal
+100088,2026-01-23,Pavel Horák,Mechanical Keyboard,Accessories,Brno,2,1707.31,5,3243.89,Card
+100089,2026-01-24,Tereza Černý,Monitor 27,Electronics,Prague,1,6415.86,0,6415.86,Card
+100090,2026-01-25,Daniel Schmidt,Phone Case,Mobile,Ostrava,5,284.41,0,1422.05,Card
+100091,2026-01-25,Tereza Doležal,External SSD 1TB,Storage,Prague,2,2171.47,15,3691.5,Card
+100092,2026-01-26,Luca Černý,Mechanical Keyboard,Accessories,Plzeň,1,1720.44,0,1720.44,Card
+100093,2026-01-27,Jana Kopecký,Desk Lamp,Office,Prague,1,659.32,0,659.32,PayPal
+100094,2026-01-27,Petr Beneš,Notebook,Office,Ostrava,6,94.48,0,566.88,Card
+100095,2026-01-27,Monika Král,Bluetooth Speaker,Audio,Brno,1,1558.38,0,1558.38,Cash
+100096,2026-01-28,Vojtěch Hájek,Webcam HD,Electronics,Brno,1,1254.84,15,1066.61,Card
+100097,2026-01-28,Luca Fiala,Mechanical Keyboard,Accessories,Prague,1,1714.49,0,1714.49,PayPal
+100098,2026-01-28,Ivana Okafor,Notebook,Office,Prague,2,84.55,5,160.64,Bank Transfer
+100099,2026-01-28,Hana Marek,Smartphone Lite,Mobile,Prague,1,9023.04,5,8571.89,Card
+100100,2026-01-28,Amina Ibrahim,Smartphone Lite,Mobile,Brno,3,9076.06,0,27228.18,PayPal
+100101,2026-01-28,Milan Jelínek,Webcam HD,Electronics,Prague,1,1235.07,0,1235.07,Card
+100102,2026-01-29,Radek Kopecký,Noise-Cancelling Headphones,Audio,Brno,2,4303.38,0,8606.76,Card
+100103,2026-01-29,Kwame Sedláček,Wireless Mouse,Accessories,Brno,3,480.61,0,1441.83,Cash
+100104,2026-01-29,Kateřina Král,Phone Case,Mobile,Brno,4,295.08,0,1180.32,Card
+100105,2026-01-30,Monika García,Wireless Mouse,Accessories,Plzeň,1,459.33,5,436.36,Bank Transfer
+100106,2026-02-01,Aleš Veselý,USB-C Hub,Accessories,Brno,3,924.95,0,2774.85,Card
+100107,2026-02-01,Monika Novák,Noise-Cancelling Headphones,Audio,Plzeň,5,4446.68,0,22233.4,Card
+100108,2026-02-01,Hana Marek,Phone Case,Mobile,Prague,4,295.12,0,1180.48,Card
+100109,2026-02-02,Luca Beneš,External SSD 1TB,Storage,Brno,2,2134.69,0,4269.38,Card
+100110,2026-02-02,Daniel Novák,Phone Case,Mobile,Ostrava,6,299.86,0,1799.16,PayPal
+100111,2026-02-02,Sofia Pokorný,Mechanical Keyboard,Accessories,Liberec,5,1764.25,5,8380.19,Card
+100112,2026-02-02,Jana Kadlec,Phone Case,Mobile,Prague,6,286.99,0,1721.94,Cash
+100113,2026-02-02,Jana Pospíšil,Laptop Pro 14,Electronics,Ostrava,5,29935.91,0,149679.55,PayPal
+100114,2026-02-03,Pavel García,Webcam HD,Electronics,Zlín,1,1129.77,15,960.3,Card
+100115,2026-02-03,Denisa Ibrahim,Notebook,Office,Prague,2,90.99,0,181.98,PayPal
+100116,2026-02-03,Kwame Jelínek,Mechanical Keyboard,Accessories,Olomouc,1,1862.59,15,1583.2,Card
+100117,2026-02-03,Lukáš Schmidt,Power Bank,Mobile,Brno,3,811.58,0,2434.74,Bank Transfer
+100118,2026-02-04,Nikola Musa,Laptop Air 13,Electronics,Brno,1,26990.8,0,26990.8,Card
+100119,2026-02-05,Ondřej Bartoš,External SSD 1TB,Storage,Olomouc,1,2073.56,10,1866.2,Card
+100120,2026-02-05,Amina Němec,Notebook,Office,Plzeň,3,89.96,5,256.39,Card
+100121,2026-02-05,Kristýna Veselý,Wireless Mouse,Accessories,Plzeň,2,454.95,5,864.4,PayPal
+100122,2026-02-06,Lukáš Dvořák,Webcam HD,Electronics,Plzeň,1,1229.38,10,1106.44,Card
+100123,2026-02-07,Fatima Adeyemi,USB-C Hub,Accessories,Brno,2,849.73,0,1699.46,Cash
+100124,2026-02-07,Aleš Veselý,Backpack,Accessories,Prague,2,1166.57,10,2099.83,Bank Transfer
+100125,2026-02-07,Pavel García,Webcam HD,Electronics,Brno,4,1186.38,0,4745.52,Bank Transfer
+100126,2026-02-07,Klára Pokorný,Office Chair,Office,Olomouc,1,5376.36,0,5376.36,PayPal
+100127,2026-02-07,Monika Jelínek,Wireless Mouse,Accessories,Plzeň,1,436.05,0,436.05,Card
+100128,2026-02-08,Lukáš Schmidt,External SSD 1TB,Storage,Olomouc,1,2189.92,5,2080.42,PayPal
+100129,2026-02-08,Lucie Rossi,Monitor 27,Electronics,Prague,1,6873.85,0,6873.85,Card
+100130,2026-02-08,Tomáš Sedláček,Office Chair,Office,Brno,1,5161.91,20,4129.53,Card
+100131,2026-02-08,David Růžička,Bluetooth Speaker,Audio,Plzeň,1,1520.09,15,1292.08,Bank Transfer
+100132,2026-02-08,Ivana Okafor,Phone Case,Mobile,Prague,4,316.27,10,1138.57,Card
+100133,2026-02-08,Tomáš Zeman,Mechanical Keyboard,Accessories,Plzeň,2,1713.5,0,3427.0,Card
+100134,2026-02-08,Zdeněk Růžička,Webcam HD,Electronics,Brno,2,1159.39,20,1855.02,Card
+100135,2026-02-08,Tomáš Sedláček,Laptop Pro 14,Electronics,Prague,2,32387.98,0,64775.96,Card
+100136,2026-02-08,Pavel Horák,External SSD 1TB,Storage,Liberec,2,2306.16,0,4612.32,Card
+100137,2026-02-09,Ondřej Jelínek,Backpack,Accessories,Prague,1,1112.59,0,1112.59,Card
+100138,2026-02-09,Jakub Kadlec,Noise-Cancelling Headphones,Audio,Prague,2,4350.71,0,8701.42,Card
+100139,2026-02-09,Kristýna Blažek,Mechanical Keyboard,Accessories,Plzeň,1,1861.47,0,1861.47,PayPal
+100140,2026-02-09,Chinedu Růžička,Bluetooth Speaker,Audio,Brno,4,1584.16,0,6336.64,PayPal
+100141,2026-02-10,Marek Sedláček,Mechanical Keyboard,Accessories,Brno,1,1767.82,0,1767.82,Cash
+100142,2026-02-10,Milan Dvořák,Bluetooth Speaker,Audio,Liberec,2,1513.56,5,2875.76,Cash
+100143,2026-02-10,Monika Jelínek,Mechanical Keyboard,Accessories,Brno,2,1906.17,0,3812.34,Card
+100144,2026-02-10,Ifeoma Ibrahim,Noise-Cancelling Headphones,Audio,Prague,3,3995.03,5,11385.84,Card
+100145,2026-02-11,Tereza Černý,USB-C Hub,Accessories,Prague,1,917.56,0,917.56,PayPal
+100146,2026-02-11,Pavel Horák,Laptop Air 13,Electronics,Brno,1,26694.51,15,22690.33,Card
+100147,2026-02-12,Luca Beneš,Wireless Mouse,Accessories,Olomouc,2,422.19,0,844.38,Bank Transfer
+100148,2026-02-12,Ondřej Jelínek,External SSD 1TB,Storage,Prague,1,2221.65,5,2110.57,Card
+100149,2026-02-13,Chinedu Pokorný,External SSD 1TB,Storage,Ostrava,1,2323.94,5,2207.74,Cash
+100150,2026-02-13,Nikola Hájek,Desk Lamp,Office,Prague,5,693.68,5,3294.98,PayPal
+100151,2026-02-13,Ondřej Müller,Wireless Mouse,Accessories,Prague,2,479.49,0,958.98,Bank Transfer
+100152,2026-02-13,Pavel Horák,Phone Case,Mobile,Prague,2,317.4,15,539.58,Bank Transfer
+100153,2026-02-13,Lucie Zeman,Wireless Mouse,Accessories,Brno,1,442.86,0,442.86,Bank Transfer
+100154,2026-02-13,Tomáš Sedláček,Notebook,Office,Prague,3,92.93,0,278.79,Card
+100155,2026-02-13,Kristýna Jelínek,Mechanical Keyboard,Accessories,Brno,1,1763.28,0,1763.28,Bank Transfer
+100156,2026-02-14,Marek Müller,Bluetooth Speaker,Audio,Ostrava,1,1455.12,5,1382.36,PayPal
+100157,2026-02-14,Ondřej Jelínek,USB-C Hub,Accessories,Brno,1,841.43,0,841.43,Card
+100158,2026-02-14,Amina Bartoš,Smartphone Lite,Mobile,Ostrava,2,9305.91,0,18611.82,Bank Transfer
+100159,2026-02-14,Martin Dvořák,Smartphone X,Mobile,Liberec,3,20272.6,5,57776.91,Card
+100160,2026-02-14,Chinedu Müller,USB-C Hub,Accessories,Ostrava,2,941.44,0,1882.88,PayPal
+100161,2026-02-14,David Němec,Wireless Mouse,Accessories,Prague,1,424.09,0,424.09,Card
+100162,2026-02-14,Monika Kučera,Laptop Air 13,Electronics,Olomouc,2,27893.6,0,55787.2,PayPal
+100163,2026-02-14,Denisa Ibrahim,Office Chair,Office,Prague,1,5350.31,15,4547.76,Bank Transfer
+100164,2026-02-15,Denisa Ibrahim,Desk Lamp,Office,Prague,1,674.06,0,674.06,Cash
+100165,2026-02-15,Nikola Hájek,Wireless Mouse,Accessories,Plzeň,1,452.26,0,452.26,Card
+100166,2026-02-15,David Kopecký,Office Chair,Office,Zlín,1,4887.47,0,4887.47,Bank Transfer
+100167,2026-02-15,Marek Schmidt,Bluetooth Speaker,Audio,Prague,2,1475.46,0,2950.92,PayPal
+100168,2026-02-16,Klára Růžička,Bluetooth Speaker,Audio,Prague,3,1535.23,0,4605.69,PayPal
+100169,2026-02-16,Milan Fiala,Monitor 27,Electronics,Brno,3,6412.28,5,18275.0,Card
+100170,2026-02-16,Ondřej Müller,Bluetooth Speaker,Audio,Brno,1,1488.8,10,1339.92,Bank Transfer
+100171,2026-02-17,Karel Doležal,Phone Case,Mobile,Prague,5,298.91,0,1494.55,Card
+100172,2026-02-17,Hana Okafor,Backpack,Accessories,Prague,2,1084.73,15,1844.04,Bank Transfer
+100173,2026-02-17,Ivana García,Phone Case,Mobile,Liberec,5,280.43,0,1402.15,Cash
+100174,2026-02-17,Petra Černý,Power Bank,Mobile,Prague,3,812.04,0,2436.12,PayPal
+100175,2026-02-17,Kwame Jelínek,Wireless Mouse,Accessories,Prague,2,463.02,5,879.74,Card
+100176,2026-02-17,Amina Fiala,Wireless Mouse,Accessories,Brno,3,451.59,0,1354.77,Card
+100177,2026-02-18,Jakub Fiala,Desk Lamp,Office,Prague,2,618.34,5,1174.85,PayPal
+100178,2026-02-18,Ondřej Bartoš,Phone Case,Mobile,Ostrava,6,309.75,5,1765.57,PayPal
+100179,2026-02-19,Monika Jelínek,Wireless Mouse,Accessories,Brno,4,472.78,0,1891.12,Card
+100180,2026-02-19,Veronika Novotný,Wireless Mouse,Accessories,Prague,2,422.09,10,759.76,Card
+100181,2026-02-19,Marie Jelínek,Desk Lamp,Office,Prague,1,662.13,5,629.02,Card
+100182,2026-02-20,Filip Růžička,Wireless Mouse,Accessories,Plzeň,1,456.0,5,433.2,PayPal
+100183,2026-02-20,Jakub Musa,Phone Case,Mobile,Prague,5,294.84,0,1474.2,Card
+100184,2026-02-20,Lucie Adeyemi,Mechanical Keyboard,Accessories,Prague,1,1763.46,0,1763.46,PayPal
+100185,2026-02-20,Jana Pospíšil,Laptop Pro 14,Electronics,Prague,1,33777.42,0,33777.42,Card
+100186,2026-02-21,Sofia Černý,Phone Case,Mobile,Olomouc,5,294.55,15,1251.84,Card
+100187,2026-02-21,Jana Kadlec,Monitor 27,Electronics,Prague,1,6061.58,5,5758.5,Card
+100188,2026-02-21,Petra Černý,Mechanical Keyboard,Accessories,Brno,2,1835.98,5,3488.36,PayPal
+100189,2026-02-21,Aleš Rossi,Notebook,Office,Brno,3,89.91,10,242.76,PayPal
+100190,2026-02-21,Karel Doležal,USB-C Hub,Accessories,Ostrava,3,960.29,5,2736.83,Bank Transfer
+100191,2026-02-22,Hana Veselý,Webcam HD,Electronics,Brno,1,1237.88,0,1237.88,Bank Transfer
+100192,2026-02-22,Vojtěch Bianchi,Wireless Mouse,Accessories,Brno,2,469.82,0,939.64,PayPal
+100193,2026-02-22,Jana Pospíšil,Mechanical Keyboard,Accessories,Ostrava,1,1717.53,15,1459.9,Card
+100194,2026-02-22,Petra Kadlec,Phone Case,Mobile,Prague,6,297.44,15,1516.94,PayPal
+100195,2026-02-22,Ifeoma Sedláček,Laptop Air 13,Electronics,Prague,1,27309.85,10,24578.86,Bank Transfer
+100196,2026-02-22,Tomáš López,Monitor 27,Electronics,Olomouc,1,6072.89,0,6072.89,PayPal
+100197,2026-02-23,Luca Zeman,USB-C Hub,Accessories,Brno,2,962.45,0,1924.9,Cash
+100198,2026-02-23,Ifeoma Čermák,Bluetooth Speaker,Audio,Brno,1,1513.74,0,1513.74,PayPal
+100199,2026-02-23,Lukáš Schmidt,Phone Case,Mobile,Zlín,2,315.56,0,631.12,PayPal
+100200,2026-02-23,Ondřej Jelínek,Smartphone Lite,Mobile,Prague,1,9074.61,15,7713.42,Bank Transfer
+100201,2026-02-23,Lukáš Schmidt,Wireless Mouse,Accessories,Brno,2,447.21,5,849.7,PayPal
+100202,2026-02-23,Tomáš Sedláček,Wireless Mouse,Accessories,Ostrava,4,475.2,0,1900.8,Bank Transfer
+100203,2026-02-23,Tereza Černý,Phone Case,Mobile,Brno,7,301.14,0,2107.98,Card
+100204,2026-02-24,Radek Kopecký,Desk Lamp,Office,Brno,1,648.53,0,648.53,Bank Transfer
+100205,2026-02-24,Lucie Kadlec,Bluetooth Speaker,Audio,Brno,3,1496.25,0,4488.75,PayPal
+100206,2026-02-25,Marie Okafor,Desk Lamp,Office,Zlín,4,638.04,0,2552.16,Card
+100207,2026-02-26,Pavel Horák,Wireless Mouse,Accessories,Liberec,2,431.95,0,863.9,Card
+100208,2026-02-27,Zdeněk Veselý,Monitor 27,Electronics,Brno,3,6353.36,0,19060.08,Card
+100209,2026-02-27,Radek Kopecký,Noise-Cancelling Headphones,Audio,Ostrava,1,3946.4,0,3946.4,Bank Transfer
+100210,2026-02-27,Zdeněk Veselý,Laptop Air 13,Electronics,Liberec,4,25772.34,0,103089.36,Bank Transfer
+100211,2026-02-27,Martin Schmidt,Smartphone X,Mobile,Olomouc,1,20559.37,20,16447.5,Cash
+100212,2026-02-28,Petr Pospíšil,Backpack,Accessories,Prague,1,1112.33,15,945.48,Card
+100213,2026-02-28,Jana Pospíšil,Smartphone Lite,Mobile,Prague,1,9083.59,20,7266.87,PayPal
+100214,2026-03-01,Luca Černý,Notebook,Office,Prague,5,91.78,0,458.9,Card
+100215,2026-03-01,Lucie Vaněk,Backpack,Accessories,Brno,2,1081.51,5,2054.87,Bank Transfer
+100216,2026-03-01,Jakub Musa,Smartphone Lite,Mobile,Brno,2,9137.75,10,16447.95,Bank Transfer
+100217,2026-03-01,Klára Pokorný,Laptop Pro 14,Electronics,Ostrava,3,30226.41,0,90679.23,Card
+100218,2026-03-01,Ondřej Jelínek,Mechanical Keyboard,Accessories,Zlín,1,1699.45,0,1699.45,PayPal
+100219,2026-03-01,Jakub Jelínek,Monitor 27,Electronics,Prague,1,6678.62,5,6344.69,Card
+100220,2026-03-02,Fatima Zeman,Phone Case,Mobile,Prague,4,306.34,0,1225.36,Bank Transfer
+100221,2026-03-02,Marie Jelínek,Noise-Cancelling Headphones,Audio,Prague,4,4225.61,5,16057.32,Cash
+100222,2026-03-02,Tereza Marek,Phone Case,Mobile,Brno,1,287.89,10,259.1,Cash
+100223,2026-03-02,Aleš Horák,Wireless Mouse,Accessories,Prague,1,420.95,10,378.86,Card
+100224,2026-03-03,Luca Beneš,Laptop Air 13,Electronics,Prague,1,25468.22,0,25468.22,Cash
+100225,2026-03-03,Sofia Pospíšil,Webcam HD,Electronics,Liberec,1,1172.12,0,1172.12,Card
+100226,2026-03-03,Hana Okafor,Bluetooth Speaker,Audio,Brno,3,1492.92,0,4478.76,Card
+100227,2026-03-03,Amina Svoboda,Phone Case,Mobile,Zlín,3,308.81,0,926.43,Cash
+100228,2026-03-03,Barbora Novotný,Monitor 27,Electronics,Brno,1,6913.26,15,5876.27,Cash
+100229,2026-03-04,Zdeněk Veselý,Noise-Cancelling Headphones,Audio,Plzeň,1,3982.49,0,3982.49,Bank Transfer
+100230,2026-03-04,Kateřina Růžička,Power Bank,Mobile,Zlín,1,819.97,15,696.97,Card
+100231,2026-03-04,Lucie Adeyemi,Wireless Mouse,Accessories,Ostrava,1,454.85,0,454.85,Bank Transfer
+100232,2026-03-04,Karel Procházka,USB-C Hub,Accessories,Liberec,2,931.2,10,1676.16,PayPal
+100233,2026-03-04,Jana Pospíšil,Mechanical Keyboard,Accessories,Brno,1,1877.09,0,1877.09,PayPal
+100234,2026-03-04,Youssef Sedláček,Phone Case,Mobile,Prague,5,303.35,15,1289.24,Bank Transfer
+100235,2026-03-05,Daniel Schmidt,Laptop Pro 14,Electronics,Plzeň,3,33660.6,5,95932.71,Card
+100236,2026-03-05,Lukáš Dvořák,Wireless Mouse,Accessories,Plzeň,1,472.3,0,472.3,Cash
+100237,2026-03-05,Petr Schmidt,Noise-Cancelling Headphones,Audio,Ostrava,1,4043.71,20,3234.97,Bank Transfer
+100238,2026-03-05,Tereza Horák,Wireless Mouse,Accessories,Brno,2,472.6,0,945.2,Bank Transfer
+100239,2026-03-05,Zdeněk Hájek,Notebook,Office,Liberec,1,89.67,20,71.74,PayPal
+100240,2026-03-05,Aleš Rossi,Wireless Mouse,Accessories,Ostrava,4,480.72,0,1922.88,Cash
+100241,2026-03-05,Vojtěch Bianchi,Phone Case,Mobile,Prague,8,288.21,0,2305.68,PayPal
+100242,2026-03-05,Petr Pospíšil,Webcam HD,Electronics,Prague,1,1234.08,0,1234.08,PayPal
+100243,2026-03-05,Petra Kadlec,Smartphone Lite,Mobile,Prague,1,8966.63,10,8069.97,Cash
+100244,2026-03-06,David Kopecký,Bluetooth Speaker,Audio,Zlín,1,1404.59,0,1404.59,Card
+100245,2026-03-06,Adéla Fiala,Wireless Mouse,Accessories,Prague,2,437.16,0,874.32,PayPal
+100246,2026-03-06,Klára Pospíšil,Backpack,Accessories,Plzeň,1,1145.2,0,1145.2,Card
+100247,2026-03-06,Kateřina Dvořák,Phone Case,Mobile,Brno,2,302.81,0,605.62,PayPal
+100248,2026-03-07,Kwame Jelínek,Phone Case,Mobile,Brno,2,314.36,10,565.85,Bank Transfer
+100249,2026-03-07,Klára Král,Mechanical Keyboard,Accessories,Prague,1,1688.24,0,1688.24,Bank Transfer
+100250,2026-03-07,Anna Král,Webcam HD,Electronics,Brno,2,1169.9,20,1871.84,Cash
+100251,2026-03-07,Kwame Jelínek,Notebook,Office,Ostrava,4,83.81,5,318.48,Card
+100252,2026-03-07,Karel Doležal,Phone Case,Mobile,Ostrava,3,291.2,15,742.56,Card
+100253,2026-03-07,Radek Kopecký,Desk Lamp,Office,Prague,1,610.19,10,549.17,Card
+100254,2026-03-08,Ondřej Kopecký,Phone Case,Mobile,Brno,2,289.48,10,521.06,PayPal
+100255,2026-03-08,Petr Beneš,Webcam HD,Electronics,Prague,1,1264.99,5,1201.74,Bank Transfer
+100256,2026-03-08,Elena Okafor,Laptop Pro 14,Electronics,Ostrava,4,30856.46,0,123425.84,Cash
+100257,2026-03-08,Elena Zeman,Mechanical Keyboard,Accessories,Brno,3,1876.08,0,5628.24,Cash
+100258,2026-03-09,Kristýna Ibrahim,Smartphone Lite,Mobile,Ostrava,3,9710.74,10,26219.0,PayPal
+100259,2026-03-09,Fatima Dvořák,Smartphone X,Mobile,Ostrava,3,22053.47,0,66160.41,Card
+100260,2026-03-09,Pavel Horák,Laptop Pro 14,Electronics,Prague,1,31458.34,0,31458.34,Card
+100261,2026-03-09,Sofia Jelínek,Office Chair,Office,Prague,1,5360.93,5,5092.88,Card
+100262,2026-03-09,Elena Němec,Wireless Mouse,Accessories,Olomouc,1,459.8,0,459.8,PayPal
+100263,2026-03-10,Amina Kučera,Laptop Air 13,Electronics,Ostrava,3,26844.8,5,76507.68,Card
+100264,2026-03-10,Ifeoma Ibrahim,Phone Case,Mobile,Ostrava,6,306.99,0,1841.94,Card
+100265,2026-03-10,Petr Marek,Power Bank,Mobile,Prague,3,825.99,0,2477.97,Card
+100266,2026-03-10,Pavel Horák,Webcam HD,Electronics,Plzeň,1,1128.95,0,1128.95,PayPal
+100267,2026-03-10,Klára Král,Notebook,Office,Zlín,4,84.11,0,336.44,Bank Transfer
+100268,2026-03-10,Martin Rossi,USB-C Hub,Accessories,Liberec,4,848.54,0,3394.16,Card
+100269,2026-03-11,Lucie Král,Bluetooth Speaker,Audio,Ostrava,1,1489.79,10,1340.81,Card
+100270,2026-03-11,Pavel Pokorný,Wireless Mouse,Accessories,Olomouc,1,435.71,0,435.71,Card
+100271,2026-03-11,Lukáš Schmidt,Power Bank,Mobile,Brno,2,808.21,20,1293.14,PayPal
+100272,2026-03-12,Monika Němec,Noise-Cancelling Headphones,Audio,Prague,1,4493.29,0,4493.29,Card
+100273,2026-03-12,Vojtěch Bianchi,Wireless Mouse,Accessories,Zlín,3,436.47,15,1113.0,Card
+100274,2026-03-12,Jan Bianchi,Notebook,Office,Prague,2,90.16,0,180.32,Card
+100275,2026-03-13,Daniel Novák,Wireless Mouse,Accessories,Prague,2,448.81,0,897.62,Card
+100276,2026-03-13,Lukáš Král,External SSD 1TB,Storage,Olomouc,1,2170.94,20,1736.75,Bank Transfer
+100277,2026-03-13,Ifeoma Ibrahim,Desk Lamp,Office,Ostrava,1,656.44,20,525.15,Card
+100278,2026-03-14,Filip Pospíšil,Notebook,Office,Ostrava,1,93.84,20,75.07,Card
+100279,2026-03-14,Pavel Schmidt,Wireless Mouse,Accessories,Prague,1,459.76,0,459.76,Cash
+100280,2026-03-14,Marie Jelínek,Wireless Mouse,Accessories,Ostrava,1,478.72,15,406.91,PayPal
+100281,2026-03-14,David Růžička,Mechanical Keyboard,Accessories,Olomouc,2,1909.9,0,3819.8,Card
+100282,2026-03-15,Tomáš Jelínek,Power Bank,Mobile,Brno,4,796.5,0,3186.0,Bank Transfer
+100283,2026-03-15,Vojtěch Musa,Mechanical Keyboard,Accessories,Brno,2,1728.91,5,3284.93,Card
+100284,2026-03-15,Ivana Okafor,Smartphone Lite,Mobile,Brno,1,10143.14,20,8114.51,Card
+100285,2026-03-15,Ifeoma Čermák,Office Chair,Office,Ostrava,1,5114.05,0,5114.05,PayPal
+100286,2026-03-15,Marie Jelínek,Laptop Pro 14,Electronics,Prague,1,30143.08,0,30143.08,Bank Transfer
+100287,2026-03-15,Klára Černý,Desk Lamp,Office,Prague,3,672.97,10,1817.02,Bank Transfer
+100288,2026-03-15,Eva Navrátil,Notebook,Office,Ostrava,6,95.04,5,541.73,Cash
+100289,2026-03-16,Denisa Ibrahim,Smartphone X,Mobile,Liberec,1,21423.8,0,21423.8,Bank Transfer
+100290,2026-03-16,Denisa Ibrahim,Mechanical Keyboard,Accessories,Prague,1,1879.62,0,1879.62,Cash
+100291,2026-03-16,Youssef Dvořák,Bluetooth Speaker,Audio,Liberec,1,1442.77,0,1442.77,Card
+100292,2026-03-17,Pavel Horák,Laptop Air 13,Electronics,Brno,2,26692.34,5,50715.45,Bank Transfer
+100293,2026-03-17,Lucie Kadlec,Laptop Pro 14,Electronics,Zlín,3,31774.13,0,95322.39,Card
+100294,2026-03-17,Aleš Navrátil,Bluetooth Speaker,Audio,Liberec,3,1562.66,10,4219.18,Card
+100295,2026-03-17,Vojtěch Bianchi,Wireless Mouse,Accessories,Brno,1,466.43,0,466.43,Bank Transfer
+100296,2026-03-17,David Kopecký,Laptop Air 13,Electronics,Brno,1,28849.74,5,27407.25,Cash
+100297,2026-03-17,Klára Pospíšil,Desk Lamp,Office,Plzeň,5,669.81,0,3349.05,Card
+100298,2026-03-17,Jakub Rossi,Monitor 27,Electronics,Liberec,1,6846.81,0,6846.81,Bank Transfer
+100299,2026-03-17,Pavel García,Monitor 27,Electronics,Brno,1,6694.85,5,6360.11,Card
+100300,2026-03-18,Lucie Kadlec,Monitor 27,Electronics,Brno,2,6885.13,0,13770.26,Bank Transfer
+100301,2026-03-18,Pavel García,Webcam HD,Electronics,Prague,1,1170.23,0,1170.23,Cash
+100302,2026-03-19,Denisa Ibrahim,Wireless Mouse,Accessories,Olomouc,2,480.7,0,961.4,Cash
+100303,2026-03-19,Petr Procházka,Wireless Mouse,Accessories,Olomouc,1,440.29,0,440.29,Card
+100304,2026-03-19,Daniel Beneš,Wireless Mouse,Accessories,Brno,3,450.22,0,1350.66,PayPal
+100305,2026-03-19,Ifeoma Vaněk,Mechanical Keyboard,Accessories,Plzeň,3,1677.62,5,4781.22,Card
+100306,2026-03-19,Tereza Král,USB-C Hub,Accessories,Brno,2,855.71,10,1540.28,Card
+100307,2026-03-19,Ifeoma Čermák,Webcam HD,Electronics,Ostrava,3,1168.09,10,3153.84,Card
+100308,2026-03-19,Chinedu Veselý,Backpack,Accessories,Prague,4,1156.38,0,4625.52,Cash
+100309,2026-03-19,David Růžička,Wireless Mouse,Accessories,Liberec,2,425.15,5,807.78,PayPal
+100310,2026-03-19,Nikola Hájek,Mechanical Keyboard,Accessories,Brno,1,1722.03,0,1722.03,PayPal
+100311,2026-03-19,Daniel Beneš,Mechanical Keyboard,Accessories,Ostrava,1,1698.44,10,1528.6,Bank Transfer
+100312,2026-03-19,Petra Kadlec,USB-C Hub,Accessories,Zlín,3,849.54,20,2038.9,PayPal
+100313,2026-03-20,Marie Král,Power Bank,Mobile,Prague,4,842.63,0,3370.52,Bank Transfer
+100314,2026-03-20,Eva Navrátil,Notebook,Office,Prague,5,87.15,0,435.75,Card
+100315,2026-03-20,Amina Bartoš,Laptop Air 13,Electronics,Brno,4,26945.7,5,102393.66,Card
+100316,2026-03-20,Daniel Novák,Noise-Cancelling Headphones,Audio,Brno,3,4259.43,5,12139.38,Card
+100317,2026-03-20,Martin Rossi,Monitor 27,Electronics,Plzeň,1,6179.18,10,5561.26,PayPal
+100318,2026-03-20,Vojtěch Kolář,Notebook,Office,Brno,3,84.9,0,254.7,Bank Transfer
+100319,2026-03-20,Fatima Dvořák,Wireless Mouse,Accessories,Brno,3,478.96,10,1293.19,PayPal
+100320,2026-03-21,Klára Pospíšil,Desk Lamp,Office,Prague,1,608.49,5,578.07,Card
+100321,2026-03-21,Lucie Bartoš,Mechanical Keyboard,Accessories,Brno,2,1790.14,0,3580.28,PayPal
+100322,2026-03-21,Milan Jelínek,Smartphone Lite,Mobile,Plzeň,1,9076.55,15,7715.07,Cash
+100323,2026-03-23,Ifeoma Beneš,Laptop Pro 14,Electronics,Prague,1,33486.0,0,33486.0,Cash
+100324,2026-03-23,Sofia Pokorný,Wireless Mouse,Accessories,Brno,1,469.23,0,469.23,Bank Transfer
+100325,2026-03-23,Jana Pospíšil,Noise-Cancelling Headphones,Audio,Brno,2,4092.21,0,8184.42,Card
+100326,2026-03-23,Kateřina Němec,Wireless Mouse,Accessories,Brno,1,422.98,15,359.53,Card
+100327,2026-03-23,Monika Jelínek,Phone Case,Mobile,Prague,6,279.26,15,1424.23,Card
+100328,2026-03-23,Elena Němec,Smartphone X,Mobile,Brno,1,19683.09,10,17714.78,Card
+100329,2026-03-23,Luca Beneš,Bluetooth Speaker,Audio,Olomouc,3,1516.46,10,4094.44,Card
+100330,2026-03-24,Klára Pospíšil,Phone Case,Mobile,Brno,4,292.83,10,1054.19,Card
+100331,2026-03-24,Jan García,Backpack,Accessories,Prague,2,1163.23,0,2326.46,Card
+100332,2026-03-24,Veronika Novák,Webcam HD,Electronics,Liberec,2,1208.71,0,2417.42,Card
+100333,2026-03-24,Ifeoma Čermák,Bluetooth Speaker,Audio,Ostrava,2,1496.68,0,2993.36,Bank Transfer
+100334,2026-03-24,Jana Pospíšil,USB-C Hub,Accessories,Prague,4,859.53,0,3438.12,Card
+100335,2026-03-25,Ifeoma Kučera,External SSD 1TB,Storage,Brno,2,2070.42,15,3519.71,Card
+100336,2026-03-25,Pavel Horák,Phone Case,Mobile,Prague,3,286.8,15,731.34,Card
+100337,2026-03-25,Veronika Černý,Wireless Mouse,Accessories,Plzeň,5,481.22,5,2285.8,PayPal
+100338,2026-03-25,Pavel Horák,Monitor 27,Electronics,Plzeň,1,6815.27,0,6815.27,Card
+100339,2026-03-25,Jana Kadlec,Noise-Cancelling Headphones,Audio,Brno,2,4089.0,5,7769.1,Card
+100340,2026-03-25,Lucie Král,Mechanical Keyboard,Accessories,Ostrava,4,1744.34,0,6977.36,PayPal
+100341,2026-03-25,Jan Zeman,External SSD 1TB,Storage,Zlín,1,2204.54,0,2204.54,Card
+100342,2026-03-25,Martin Pokorný,Laptop Air 13,Electronics,Plzeň,1,28502.16,0,28502.16,Bank Transfer
+100343,2026-03-25,Luca Černý,Desk Lamp,Office,Ostrava,2,681.45,0,1362.9,Card
+100344,2026-03-25,Ifeoma Kučera,Phone Case,Mobile,Olomouc,3,300.77,0,902.31,Card
+100345,2026-03-25,Milan Doležal,Wireless Mouse,Accessories,Liberec,1,444.88,0,444.88,PayPal
+100346,2026-03-25,Amara Doležal,Bluetooth Speaker,Audio,Brno,1,1499.23,5,1424.27,Cash
+100347,2026-03-26,Klára Pospíšil,Desk Lamp,Office,Liberec,1,679.35,10,611.42,Bank Transfer
+100348,2026-03-26,Jan Kolář,Laptop Pro 14,Electronics,Olomouc,2,31103.11,20,49764.98,Card
+100349,2026-03-26,Klára Bartoš,Laptop Air 13,Electronics,Plzeň,5,28404.41,20,113617.64,Card
+100350,2026-03-26,Marie Jelínek,Laptop Pro 14,Electronics,Liberec,5,32733.78,0,163668.9,Card
+100351,2026-03-26,Youssef Sedláček,Notebook,Office,Brno,6,87.63,0,525.78,PayPal
+100352,2026-03-26,Adéla Čermák,USB-C Hub,Accessories,Prague,2,852.85,0,1705.7,Bank Transfer
+100353,2026-03-27,Veronika Novák,Smartphone X,Mobile,Ostrava,3,20337.93,0,61013.79,Card
+100354,2026-03-27,Elena Němec,Webcam HD,Electronics,Zlín,1,1169.88,0,1169.88,Card
+100355,2026-03-28,Adéla Čermák,Noise-Cancelling Headphones,Audio,Brno,3,4396.18,5,12529.11,Card
+100356,2026-03-28,Kateřina Beneš,Desk Lamp,Office,Plzeň,4,667.54,0,2670.16,Bank Transfer
+100357,2026-03-28,Filip Pospíšil,Laptop Pro 14,Electronics,Ostrava,1,31174.66,10,28057.19,Card
+100358,2026-03-29,Chinedu Veselý,Phone Case,Mobile,Brno,6,292.16,15,1490.02,Cash
+100359,2026-03-29,Pavel Horák,Smartphone Lite,Mobile,Plzeň,1,9469.88,0,9469.88,Card
+100360,2026-03-30,Kristýna Procházka,Power Bank,Mobile,Prague,3,904.11,0,2712.33,Card
+100361,2026-03-30,Michal Kučera,External SSD 1TB,Storage,Prague,4,2323.7,0,9294.8,Card
+100362,2026-03-31,Kwame Jelínek,Bluetooth Speaker,Audio,Prague,4,1523.72,0,6094.88,Card
+100363,2026-03-31,Daniel Novotný,Notebook,Office,Ostrava,1,89.95,0,89.95,Card
+100364,2026-03-31,Youssef Dvořák,USB-C Hub,Accessories,Plzeň,3,954.28,0,2862.84,PayPal
+100365,2026-03-31,Sofia Beneš,Smartphone Lite,Mobile,Plzeň,2,9700.55,0,19401.1,Card
+100366,2026-03-31,Klára Král,Wireless Mouse,Accessories,Brno,1,467.67,0,467.67,Card
+100367,2026-03-31,Fatima Dvořák,External SSD 1TB,Storage,Brno,1,2270.41,5,2156.89,Bank Transfer
+100368,2026-03-31,Denisa Musa,External SSD 1TB,Storage,Prague,4,2080.68,0,8322.72,Card
+100369,2026-04-01,Lucie Kadlec,Smartphone X,Mobile,Prague,2,21171.71,15,35991.91,Bank Transfer
+100370,2026-04-01,Adéla Čermák,Laptop Air 13,Electronics,Prague,3,26720.74,10,72146.0,Card
+100371,2026-04-01,Amara Novák,Monitor 27,Electronics,Ostrava,2,6670.19,0,13340.38,PayPal
+100372,2026-04-01,Daniel Beneš,Bluetooth Speaker,Audio,Plzeň,4,1559.85,20,4991.52,Card
+100373,2026-04-02,David Růžička,Office Chair,Office,Liberec,4,5366.62,0,21466.48,Card
+100374,2026-04-02,Michal Kučera,Wireless Mouse,Accessories,Brno,1,450.36,0,450.36,Bank Transfer
+100375,2026-04-02,Martin Doležal,Noise-Cancelling Headphones,Audio,Brno,2,4122.0,10,7419.6,Bank Transfer
+100376,2026-04-02,Daniel Beneš,Backpack,Accessories,Plzeň,2,1105.17,10,1989.31,PayPal
+100377,2026-04-02,Adéla Čermák,Monitor 27,Electronics,Brno,2,6048.81,5,11492.74,Bank Transfer
+100378,2026-04-02,Sofia Pospíšil,Bluetooth Speaker,Audio,Prague,1,1430.86,0,1430.86,Bank Transfer
+100379,2026-04-03,Kateřina Němec,Notebook,Office,Liberec,1,87.13,0,87.13,Bank Transfer
+100380,2026-04-03,Zdeněk Veselý,Laptop Air 13,Electronics,Plzeň,1,26576.59,0,26576.59,Bank Transfer
+100381,2026-04-03,Hana Marek,Backpack,Accessories,Prague,1,1023.9,15,870.32,PayPal
+100382,2026-04-03,Jakub Zeman,Smartphone X,Mobile,Prague,5,21015.04,0,105075.2,Card
+100383,2026-04-04,Pavel Horák,Bluetooth Speaker,Audio,Plzeň,2,1474.16,0,2948.32,Bank Transfer
+100384,2026-04-04,Anna Král,Phone Case,Mobile,Plzeň,4,318.94,0,1275.76,Card
+100385,2026-04-04,Jan Bianchi,Bluetooth Speaker,Audio,Zlín,4,1509.58,0,6038.32,Cash
+100386,2026-04-04,Zdeněk Schmidt,Mechanical Keyboard,Accessories,Ostrava,1,1768.06,0,1768.06,Bank Transfer
+100387,2026-04-05,Amara Novák,External SSD 1TB,Storage,Ostrava,1,2134.67,5,2027.94,Card
+100388,2026-04-05,Ondřej Jelínek,Phone Case,Mobile,Plzeň,6,293.28,0,1759.68,PayPal
+100389,2026-04-05,Ifeoma Schmidt,Wireless Mouse,Accessories,Ostrava,1,448.93,0,448.93,Cash
+100390,2026-04-06,Tereza Čermák,Webcam HD,Electronics,Plzeň,1,1136.72,0,1136.72,PayPal
+100391,2026-04-06,Lucie Bartoš,Noise-Cancelling Headphones,Audio,Olomouc,2,4359.84,15,7411.73,Card
+100392,2026-04-06,Pavel Horák,Laptop Pro 14,Electronics,Liberec,2,32669.22,10,58804.6,Card
+100393,2026-04-06,Petra Beneš,Backpack,Accessories,Ostrava,1,1159.19,0,1159.19,Card
+100394,2026-04-06,Elena Schmidt,Office Chair,Office,Brno,1,4868.98,5,4625.53,PayPal
+100395,2026-04-06,Elena Němec,Bluetooth Speaker,Audio,Prague,5,1454.97,0,7274.85,Bank Transfer
+100396,2026-04-06,Daniel Růžička,Wireless Mouse,Accessories,Brno,4,429.96,15,1461.86,Card
+100397,2026-04-06,Klára Pokorný,Bluetooth Speaker,Audio,Prague,1,1552.28,5,1474.67,PayPal
+100398,2026-04-07,Klára Černý,Bluetooth Speaker,Audio,Liberec,1,1555.11,0,1555.11,Card
+100399,2026-04-07,Kristýna Ibrahim,Desk Lamp,Office,Prague,2,686.33,0,1372.66,Card
+100400,2026-04-07,Marek Müller,External SSD 1TB,Storage,Ostrava,3,2325.69,0,6977.07,Bank Transfer
+100401,2026-04-08,Alena Jelínek,Wireless Mouse,Accessories,Prague,1,430.89,0,430.89,Bank Transfer
+100402,2026-04-08,Kristýna Pospíšil,Office Chair,Office,Prague,2,5419.73,0,10839.46,PayPal
+100403,2026-04-08,Jana Pospíšil,Power Bank,Mobile,Plzeň,4,867.33,0,3469.32,PayPal
+100404,2026-04-09,Vojtěch Bianchi,Wireless Mouse,Accessories,Prague,3,444.84,15,1134.34,Card
+100405,2026-04-09,Hana Marek,Smartphone X,Mobile,Brno,3,20105.4,5,57300.39,Bank Transfer
+100406,2026-04-09,Hana Sedláček,USB-C Hub,Accessories,Ostrava,5,871.93,10,3923.68,Card
+100407,2026-04-09,Chinedu Musa,External SSD 1TB,Storage,Brno,1,2232.37,5,2120.75,Card
+100408,2026-04-09,Klára Král,USB-C Hub,Accessories,Brno,1,859.31,20,687.45,PayPal
+100409,2026-04-09,Jan Ibrahim,Mechanical Keyboard,Accessories,Prague,2,1920.96,5,3649.82,Bank Transfer
+100410,2026-04-09,David Růžička,Monitor 27,Electronics,Prague,4,6060.17,0,24240.68,PayPal
+100411,2026-04-09,Adéla Kučera,Phone Case,Mobile,Prague,3,317.02,0,951.06,Cash
+100412,2026-04-09,Kwame Jelínek,External SSD 1TB,Storage,Brno,3,2260.5,0,6781.5,Card
+100413,2026-04-09,Eva Dvořák,Laptop Pro 14,Electronics,Brno,3,30923.96,0,92771.88,Card
+100414,2026-04-10,Jakub Fiala,Smartphone Lite,Mobile,Brno,1,9289.62,0,9289.62,Card
+100415,2026-04-10,Youssef Doležal,Mechanical Keyboard,Accessories,Prague,1,1701.84,0,1701.84,Card
+100416,2026-04-10,Radek Dvořák,Notebook,Office,Prague,2,96.06,5,182.51,Bank Transfer
+100417,2026-04-10,Ifeoma Bartoš,Noise-Cancelling Headphones,Audio,Olomouc,5,4067.24,0,20336.2,Card
+100418,2026-04-10,Jakub Fiala,Power Bank,Mobile,Brno,1,866.31,15,736.36,Card
+100419,2026-04-10,Amina Kučera,USB-C Hub,Accessories,Prague,1,932.49,0,932.49,Card
+100420,2026-04-11,Elena Schmidt,Monitor 27,Electronics,Prague,1,6124.89,0,6124.89,Card
+100421,2026-04-11,Milan Jelínek,Backpack,Accessories,Zlín,1,1069.03,0,1069.03,Card
+100422,2026-04-12,David Růžička,Phone Case,Mobile,Ostrava,1,293.53,0,293.53,Bank Transfer
+100423,2026-04-12,Petr Pospíšil,Webcam HD,Electronics,Prague,4,1181.39,15,4016.73,Bank Transfer
+100424,2026-04-12,Ifeoma Vaněk,Notebook,Office,Prague,7,83.71,0,585.97,Card
+100425,2026-04-12,Luca Horák,Wireless Mouse,Accessories,Plzeň,1,441.73,0,441.73,Card
+100426,2026-04-13,Vojtěch Bianchi,Power Bank,Mobile,Ostrava,1,881.76,0,881.76,Cash
+100427,2026-04-13,Daniel Novák,External SSD 1TB,Storage,Olomouc,1,2279.7,0,2279.7,Cash
+100428,2026-04-13,Luca Černý,Webcam HD,Electronics,Prague,4,1262.74,0,5050.96,Bank Transfer
+100429,2026-04-13,Daniel Müller,Smartphone X,Mobile,Ostrava,3,20862.59,10,56328.99,Card
+100430,2026-04-13,Josef Vaněk,External SSD 1TB,Storage,Prague,2,2087.09,10,3756.76,Card
+100431,2026-04-13,Kateřina Pokorný,Smartphone Lite,Mobile,Ostrava,2,9902.41,0,19804.82,Card
+100432,2026-04-13,Kateřina Beneš,External SSD 1TB,Storage,Brno,4,2152.88,15,7319.79,Card
+100433,2026-04-14,Jan García,Mechanical Keyboard,Accessories,Zlín,1,1753.75,0,1753.75,Cash
+100434,2026-04-14,Lucie Růžička,Wireless Mouse,Accessories,Prague,1,460.94,5,437.89,Card
+100435,2026-04-14,Denisa Ibrahim,Desk Lamp,Office,Prague,2,624.16,5,1185.9,Card
+100436,2026-04-15,Tomáš Sedláček,Smartphone Lite,Mobile,Ostrava,2,9313.57,5,17695.78,Cash
+100437,2026-04-15,Daniel Novák,Power Bank,Mobile,Ostrava,2,819.25,5,1556.57,Card
+100438,2026-04-15,Ivana Král,USB-C Hub,Accessories,Zlín,1,911.71,0,911.71,Card
+100439,2026-04-15,Klára Král,USB-C Hub,Accessories,Liberec,1,900.33,0,900.33,Card
+100440,2026-04-15,Monika García,Noise-Cancelling Headphones,Audio,Plzeň,1,4057.84,0,4057.84,Card
+100441,2026-04-15,Marie Král,Mechanical Keyboard,Accessories,Prague,1,1688.73,0,1688.73,Card
+100442,2026-04-15,Tereza Doležal,Webcam HD,Electronics,Ostrava,5,1183.5,15,5029.88,Bank Transfer
+100443,2026-04-15,Jakub Musa,Power Bank,Mobile,Brno,1,825.28,0,825.28,Card
+100444,2026-04-16,Fatima Sedláček,Monitor 27,Electronics,Brno,3,6655.4,0,19966.2,PayPal
+100445,2026-04-16,Alena Ibrahim,Power Bank,Mobile,Olomouc,1,890.33,15,756.78,Bank Transfer
+100446,2026-04-16,Chinedu Růžička,Office Chair,Office,Ostrava,1,5510.41,0,5510.41,PayPal
+100447,2026-04-16,Ondřej Růžička,Phone Case,Mobile,Brno,3,316.07,0,948.21,PayPal
+100448,2026-04-16,Kateřina Pokorný,USB-C Hub,Accessories,Plzeň,3,889.18,5,2534.16,Card
+100449,2026-04-16,Jan Černý,Bluetooth Speaker,Audio,Brno,1,1450.17,5,1377.66,Card
+100450,2026-04-16,Filip Hájek,Power Bank,Mobile,Prague,2,830.48,0,1660.96,Card
+100451,2026-04-17,Ifeoma Ibrahim,Wireless Mouse,Accessories,Prague,3,444.89,0,1334.67,Card
+100452,2026-04-17,Lucie Bartoš,Desk Lamp,Office,Prague,1,631.94,0,631.94,Card
+100453,2026-04-17,Ondřej Jelínek,Noise-Cancelling Headphones,Audio,Olomouc,2,4474.42,0,8948.84,Bank Transfer
+100454,2026-04-17,Michal Kučera,Monitor 27,Electronics,Plzeň,1,6489.3,0,6489.3,Bank Transfer
+100455,2026-04-18,Pavel Horák,Phone Case,Mobile,Prague,5,301.89,15,1283.03,Card
+100456,2026-04-18,Milan Doležal,Bluetooth Speaker,Audio,Prague,4,1493.5,5,5675.3,Bank Transfer
+100457,2026-04-18,Hana Marek,Desk Lamp,Office,Plzeň,1,654.13,0,654.13,Bank Transfer
+100458,2026-04-18,Radek Kopecký,Monitor 27,Electronics,Prague,4,6487.38,0,25949.52,Card
+100459,2026-04-18,Tereza Pospíšil,Monitor 27,Electronics,Brno,2,6667.84,10,12002.11,Card
+100460,2026-04-18,Kwame Sedláček,External SSD 1TB,Storage,Prague,1,2274.73,0,2274.73,Card
+100461,2026-04-18,Jana Pospíšil,Wireless Mouse,Accessories,Prague,1,478.56,0,478.56,Bank Transfer
+100462,2026-04-19,Elena Zeman,Laptop Air 13,Electronics,Prague,2,27820.95,0,55641.9,PayPal
+100463,2026-04-19,Nikola Musa,Wireless Mouse,Accessories,Prague,1,465.22,5,441.96,Bank Transfer
+100464,2026-04-19,Petr Procházka,Backpack,Accessories,Prague,1,1076.82,0,1076.82,Card
+100465,2026-04-19,Vojtěch Sedláček,Bluetooth Speaker,Audio,Plzeň,3,1400.69,0,4202.07,PayPal
+100466,2026-04-20,Ifeoma Ibrahim,Monitor 27,Electronics,Prague,2,6326.76,5,12020.84,Bank Transfer
+100467,2026-04-20,Ifeoma Sedláček,Phone Case,Mobile,Brno,3,313.94,0,941.82,Bank Transfer
+100468,2026-04-20,Hana Marek,USB-C Hub,Accessories,Prague,3,954.12,20,2289.89,PayPal
+100469,2026-04-20,Pavel Horák,Bluetooth Speaker,Audio,Prague,2,1470.14,10,2646.25,Card
+100470,2026-04-20,Elena Schmidt,Bluetooth Speaker,Audio,Plzeň,2,1582.76,10,2848.97,Card
+100471,2026-04-21,Milan Jelínek,Mechanical Keyboard,Accessories,Brno,2,1835.44,0,3670.88,PayPal
+100472,2026-04-21,Milan Jelínek,Mechanical Keyboard,Accessories,Prague,1,1724.97,0,1724.97,Card
+100473,2026-04-21,Lucie Vaněk,Monitor 27,Electronics,Zlín,1,6300.35,10,5670.32,Card
+100474,2026-04-21,Luca Dvořák,Notebook,Office,Prague,8,84.63,0,677.04,Bank Transfer
+100475,2026-04-22,Jana Růžička,Backpack,Accessories,Prague,1,1066.23,0,1066.23,Card
+100476,2026-04-23,Klára Pospíšil,Notebook,Office,Olomouc,4,86.83,20,277.86,Card
+100477,2026-04-23,Lucie Kadlec,Power Bank,Mobile,Brno,2,852.14,0,1704.28,Card
+100478,2026-04-24,Klára Pokorný,Wireless Mouse,Accessories,Prague,1,420.39,5,399.37,Bank Transfer
+100479,2026-04-24,Ondřej Kučera,Mechanical Keyboard,Accessories,Prague,2,1779.61,0,3559.22,Card
+100480,2026-04-24,Ifeoma Vaněk,Power Bank,Mobile,Ostrava,3,861.98,0,2585.94,Card
+100481,2026-04-25,Pavel Novotný,External SSD 1TB,Storage,Zlín,1,2229.3,0,2229.3,Bank Transfer
+100482,2026-04-25,Lucie Kadlec,External SSD 1TB,Storage,Prague,1,2200.86,0,2200.86,Bank Transfer
+100483,2026-04-25,Amina Černý,Notebook,Office,Prague,4,84.0,15,285.6,Bank Transfer
+100484,2026-04-25,Ifeoma Procházka,Power Bank,Mobile,Brno,1,806.15,0,806.15,Card
+100485,2026-04-25,Ondřej Bartoš,Wireless Mouse,Accessories,Prague,5,466.41,15,1982.24,PayPal
+100486,2026-04-26,Luca Beneš,Office Chair,Office,Brno,1,4971.87,0,4971.87,Bank Transfer
+100487,2026-04-26,Nikola Hájek,Laptop Air 13,Electronics,Olomouc,2,28131.77,0,56263.54,Cash
+100488,2026-04-26,Ondřej Müller,Laptop Air 13,Electronics,Prague,1,27944.85,15,23753.12,Card
+100489,2026-04-26,Tomáš López,Monitor 27,Electronics,Brno,3,6294.98,0,18884.94,Card
+100490,2026-04-26,Luca Beneš,Power Bank,Mobile,Liberec,4,816.73,15,2776.88,Bank Transfer
+100491,2026-04-26,Aleš Veselý,Laptop Pro 14,Electronics,Ostrava,4,31359.49,0,125437.96,Card
+100492,2026-04-26,Nikola Hájek,Notebook,Office,Ostrava,2,91.87,0,183.74,Bank Transfer
+100493,2026-04-27,Michal Kučera,Notebook,Office,Prague,4,90.53,0,362.12,Bank Transfer
+100494,2026-04-27,Pavel Horák,Desk Lamp,Office,Prague,4,635.29,15,2159.99,Card
+100495,2026-04-27,Kristýna Blažek,Bluetooth Speaker,Audio,Brno,3,1530.5,0,4591.5,Card
+100496,2026-04-27,Daniel Zeman,Laptop Pro 14,Electronics,Ostrava,4,33667.12,0,134668.48,Cash
+100497,2026-04-27,Fatima Dvořák,Wireless Mouse,Accessories,Ostrava,1,480.41,0,480.41,Bank Transfer
+100498,2026-04-27,Pavel García,Smartphone Lite,Mobile,Liberec,1,9555.54,10,8599.99,Cash
+100499,2026-04-28,Monika Pokorný,USB-C Hub,Accessories,Olomouc,1,896.9,5,852.06,Card
+100500,2026-04-28,Petr Pospíšil,Monitor 27,Electronics,Prague,2,6452.15,0,12904.3,Card
+100501,2026-04-28,Tomáš López,Laptop Air 13,Electronics,Prague,3,25430.51,0,76291.53,Card
+100502,2026-04-28,Kateřina Dvořák,Laptop Air 13,Electronics,Prague,3,26441.43,0,79324.29,Card
+100503,2026-04-28,Michal Procházka,Phone Case,Mobile,Prague,3,285.57,5,813.87,Cash
+100504,2026-04-29,Petr Pospíšil,USB-C Hub,Accessories,Prague,3,881.58,10,2380.27,Cash
+100505,2026-04-29,Ifeoma Vaněk,Phone Case,Mobile,Brno,7,297.5,10,1874.25,Bank Transfer
+100506,2026-04-29,Jan Procházka,Bluetooth Speaker,Audio,Prague,3,1493.86,15,3809.34,Card
+100507,2026-04-29,Alena Okafor,Noise-Cancelling Headphones,Audio,Prague,3,4271.34,0,12814.02,Cash
+100508,2026-04-29,Lucie Kadlec,External SSD 1TB,Storage,Prague,2,2163.03,0,4326.06,Card
+100509,2026-04-30,Kwame Jelínek,USB-C Hub,Accessories,Olomouc,3,891.76,5,2541.52,Card
+100510,2026-05-01,Milan Doležal,Power Bank,Mobile,Prague,1,817.41,0,817.41,Card
+100511,2026-05-01,Karel Beneš,Backpack,Accessories,Zlín,2,1036.74,0,2073.48,Bank Transfer
+100512,2026-05-02,Zdeněk Veselý,Bluetooth Speaker,Audio,Zlín,1,1480.63,5,1406.6,Bank Transfer
+100513,2026-05-02,David Kučera,Noise-Cancelling Headphones,Audio,Brno,2,4011.63,20,6418.61,Card
+100514,2026-05-02,Daniel Beneš,Power Bank,Mobile,Olomouc,1,866.91,0,866.91,Card
+100515,2026-05-03,Klára Pokorný,Bluetooth Speaker,Audio,Prague,2,1548.44,0,3096.88,PayPal
+100516,2026-05-03,Ondřej Müller,USB-C Hub,Accessories,Prague,2,938.7,0,1877.4,Bank Transfer
+100517,2026-05-03,Kateřina Pokorný,Wireless Mouse,Accessories,Plzeň,1,476.24,0,476.24,Card
+100518,2026-05-04,Veronika Pokorný,USB-C Hub,Accessories,Prague,4,915.86,5,3480.27,Card
+100519,2026-05-04,Martin Dvořák,Laptop Pro 14,Electronics,Prague,2,30856.7,0,61713.4,Card
+100520,2026-05-04,Michal Kučera,External SSD 1TB,Storage,Prague,1,2238.06,10,2014.25,PayPal
+100521,2026-05-04,Lucie Vaněk,USB-C Hub,Accessories,Prague,3,880.72,0,2642.16,Bank Transfer
+100522,2026-05-04,Jakub Kadlec,Bluetooth Speaker,Audio,Prague,1,1402.89,10,1262.6,Card
+100523,2026-05-05,Jan Ibrahim,Smartphone X,Mobile,Brno,2,20170.28,10,36306.5,PayPal
+100524,2026-05-05,Vojtěch Bianchi,Notebook,Office,Plzeň,2,85.81,0,171.62,PayPal
+100525,2026-05-05,Klára Pospíšil,USB-C Hub,Accessories,Brno,1,882.01,0,882.01,PayPal
+100526,2026-05-05,Lukáš Procházka,Bluetooth Speaker,Audio,Olomouc,1,1496.79,15,1272.27,Bank Transfer
+100527,2026-05-06,Fatima Adeyemi,Mechanical Keyboard,Accessories,Ostrava,1,1734.17,0,1734.17,Card
+100528,2026-05-06,Kateřina Růžička,Laptop Air 13,Electronics,Prague,3,27018.13,10,72948.95,PayPal
+100529,2026-05-06,Tomáš Král,Mechanical Keyboard,Accessories,Zlín,2,1862.65,0,3725.3,PayPal
+100530,2026-05-06,Pavel Horák,Bluetooth Speaker,Audio,Prague,2,1530.15,5,2907.28,Card
+100531,2026-05-06,Milan Jelínek,Desk Lamp,Office,Brno,5,629.97,5,2992.36,Bank Transfer
+100532,2026-05-06,Lukáš Kadlec,Smartphone X,Mobile,Plzeň,3,21246.12,10,57364.52,Bank Transfer
+100533,2026-05-07,Filip Navrátil,Laptop Pro 14,Electronics,Prague,4,33112.11,0,132448.44,Card
+100534,2026-05-07,Daniel Kučera,Noise-Cancelling Headphones,Audio,Liberec,2,4168.96,0,8337.92,Bank Transfer
+100535,2026-05-07,Luca Fiala,Notebook,Office,Zlín,5,91.26,10,410.67,Bank Transfer
+100536,2026-05-07,Chinedu Müller,Wireless Mouse,Accessories,Prague,1,467.35,0,467.35,Card
+100537,2026-05-07,Ondřej Bartoš,Smartphone X,Mobile,Prague,2,21980.93,0,43961.86,Card
+100538,2026-05-07,Daniel Beneš,Wireless Mouse,Accessories,Prague,1,473.01,0,473.01,PayPal
+100539,2026-05-07,Eva Kopecký,Wireless Mouse,Accessories,Olomouc,2,472.61,10,850.7,PayPal
+100540,2026-05-07,Fatima Růžička,Phone Case,Mobile,Prague,1,285.75,0,285.75,Card
+100541,2026-05-07,Daniel Růžička,Phone Case,Mobile,Plzeň,1,295.95,0,295.95,Bank Transfer
+100542,2026-05-07,Chinedu Bianchi,Noise-Cancelling Headphones,Audio,Olomouc,2,4401.77,5,8363.36,PayPal
+100543,2026-05-08,Tomáš Kopecký,Smartphone Lite,Mobile,Prague,2,9067.91,0,18135.82,PayPal
+100544,2026-05-08,Lucie Bartoš,Noise-Cancelling Headphones,Audio,Olomouc,2,4098.24,15,6967.01,Cash
+100545,2026-05-09,David Kopecký,Desk Lamp,Office,Prague,1,626.38,15,532.42,Bank Transfer
+100546,2026-05-09,Monika Kučera,Wireless Mouse,Accessories,Prague,2,438.59,0,877.18,Cash
+100547,2026-05-09,Veronika Kopecký,Mechanical Keyboard,Accessories,Prague,4,1858.82,0,7435.28,PayPal
+100548,2026-05-10,Nikola Musa,Wireless Mouse,Accessories,Ostrava,2,442.42,20,707.87,Cash
+100549,2026-05-10,Ondřej Jelínek,Desk Lamp,Office,Prague,3,689.75,0,2069.25,Card
+100550,2026-05-10,Milan Jelínek,Phone Case,Mobile,Prague,7,317.31,0,2221.17,Card
+100551,2026-05-10,Daniel Novák,Webcam HD,Electronics,Brno,1,1224.32,0,1224.32,Bank Transfer
+100552,2026-05-10,Ifeoma Čermák,Wireless Mouse,Accessories,Plzeň,4,432.91,0,1731.64,Bank Transfer
+100553,2026-05-11,Aleš Horák,Wireless Mouse,Accessories,Brno,1,457.72,0,457.72,Card
+100554,2026-05-11,Pavel Kolář,Laptop Air 13,Electronics,Olomouc,3,26866.53,5,76569.61,Bank Transfer
+100555,2026-05-11,Pavel García,Mechanical Keyboard,Accessories,Brno,1,1724.06,0,1724.06,Bank Transfer
+100556,2026-05-11,Ondřej Kolář,Notebook,Office,Brno,1,85.64,0,85.64,Card
+100557,2026-05-11,Daniel Novotný,Bluetooth Speaker,Audio,Zlín,1,1519.65,5,1443.67,Card
+100558,2026-05-12,Monika Horák,Smartphone Lite,Mobile,Prague,1,9151.93,0,9151.93,Card
+100559,2026-05-12,Daniel Beneš,Laptop Pro 14,Electronics,Prague,1,32372.97,10,29135.67,Card
+100560,2026-05-12,Pavel Horák,USB-C Hub,Accessories,Prague,2,881.05,0,1762.1,PayPal
+100561,2026-05-13,Monika Fiala,Desk Lamp,Office,Prague,3,648.3,20,1555.92,Cash
+100562,2026-05-13,Lucie Doležal,Laptop Air 13,Electronics,Prague,3,25309.37,0,75928.11,Card
+100563,2026-05-13,Tereza Král,Smartphone Lite,Mobile,Prague,4,9361.64,0,37446.56,Bank Transfer
+100564,2026-05-13,Petr Bianchi,Backpack,Accessories,Prague,2,1120.29,0,2240.58,Bank Transfer
+100565,2026-05-13,Barbora Dvořák,Power Bank,Mobile,Brno,3,839.0,10,2265.3,Cash
+100566,2026-05-13,Milan Jelínek,Phone Case,Mobile,Prague,5,308.63,0,1543.15,Card
+100567,2026-05-13,Fatima Dvořák,Wireless Mouse,Accessories,Prague,1,457.81,0,457.81,Bank Transfer
+100568,2026-05-14,Lucie Müller,Power Bank,Mobile,Prague,2,907.86,0,1815.72,PayPal
+100569,2026-05-14,Barbora Dvořák,Wireless Mouse,Accessories,Brno,1,425.55,0,425.55,Cash
+100570,2026-05-14,Marie Svoboda,Smartphone Lite,Mobile,Liberec,1,9708.12,0,9708.12,Card
+100571,2026-05-14,Tereza Doležal,Monitor 27,Electronics,Plzeň,1,6666.18,5,6332.87,PayPal
+100572,2026-05-14,Luca Beneš,USB-C Hub,Accessories,Ostrava,2,917.76,0,1835.52,Bank Transfer
+100573,2026-05-14,Kateřina Růžička,Noise-Cancelling Headphones,Audio,Prague,1,3942.48,0,3942.48,Bank Transfer
+100574,2026-05-14,Kwame Marek,Bluetooth Speaker,Audio,Prague,1,1596.09,10,1436.48,Bank Transfer
+100575,2026-05-14,Pavel Horák,USB-C Hub,Accessories,Ostrava,1,875.52,5,831.74,Card
+100576,2026-05-14,Sofia Zeman,Bluetooth Speaker,Audio,Brno,1,1570.58,0,1570.58,Bank Transfer
+100577,2026-05-14,Tomáš Sedláček,Notebook,Office,Plzeň,3,92.68,0,278.04,Cash
+100578,2026-05-15,Radek Kopecký,Smartphone Lite,Mobile,Plzeň,3,9572.73,5,27282.28,Bank Transfer
+100579,2026-05-15,Daniel Beneš,Power Bank,Mobile,Prague,1,855.26,5,812.5,Cash
+100580,2026-05-15,Adéla Kučera,Mechanical Keyboard,Accessories,Brno,3,1725.21,0,5175.63,Bank Transfer
+100581,2026-05-15,Daniel Beneš,Laptop Air 13,Electronics,Prague,3,26377.05,0,79131.15,Card
+100582,2026-05-16,Fatima Adeyemi,Bluetooth Speaker,Audio,Prague,3,1428.78,10,3857.71,Bank Transfer
+100583,2026-05-16,Youssef Doležal,Laptop Air 13,Electronics,Prague,2,27599.95,0,55199.9,Bank Transfer
+100584,2026-05-16,Tereza Čermák,Webcam HD,Electronics,Prague,1,1216.27,10,1094.64,Card
+100585,2026-05-16,Sofia Beneš,Power Bank,Mobile,Brno,3,890.71,0,2672.13,Card
+100586,2026-05-16,Zdeněk Hájek,Office Chair,Office,Liberec,1,4843.31,0,4843.31,Card
+100587,2026-05-16,Nikola Musa,Notebook,Office,Plzeň,3,90.95,0,272.85,Card
+100588,2026-05-16,Aleš Horák,Bluetooth Speaker,Audio,Liberec,2,1536.71,0,3073.42,Card
+100589,2026-05-17,Jana Kadlec,Mechanical Keyboard,Accessories,Prague,4,1908.74,10,6871.46,Card
+100590,2026-05-17,Luca Beneš,Power Bank,Mobile,Ostrava,2,901.54,0,1803.08,PayPal
+100591,2026-05-17,Milan Blažek,Monitor 27,Electronics,Olomouc,1,6406.54,0,6406.54,Card
+100592,2026-05-17,Alena Ibrahim,Monitor 27,Electronics,Olomouc,2,6872.76,10,12370.97,Bank Transfer
+100593,2026-05-17,Marie Jelínek,Noise-Cancelling Headphones,Audio,Plzeň,2,4033.2,0,8066.4,PayPal
+100594,2026-05-17,Michal Čermák,Smartphone X,Mobile,Prague,3,20699.73,0,62099.19,Card
+100595,2026-05-18,Chinedu Sedláček,Mechanical Keyboard,Accessories,Plzeň,2,1832.95,0,3665.9,Card
+100596,2026-05-18,Amina Němec,Notebook,Office,Brno,4,95.45,0,381.8,PayPal
+100597,2026-05-18,Petra Beneš,Phone Case,Mobile,Prague,5,301.25,10,1355.62,Card
+100598,2026-05-18,Ifeoma Sedláček,Laptop Air 13,Electronics,Ostrava,1,28830.74,0,28830.74,Card
+100599,2026-05-18,Radek Zeman,External SSD 1TB,Storage,Ostrava,2,2260.05,20,3616.08,Card
+100600,2026-05-18,Lucie Müller,Monitor 27,Electronics,Brno,1,6910.8,0,6910.8,Bank Transfer
+100601,2026-05-19,Ifeoma Čermák,Wireless Mouse,Accessories,Brno,1,450.16,0,450.16,Card
+100602,2026-05-19,Kristýna Veselý,Backpack,Accessories,Prague,1,1131.21,0,1131.21,Card
+100603,2026-05-19,Eva Blažek,Wireless Mouse,Accessories,Ostrava,3,459.55,0,1378.65,Card
+100604,2026-05-19,Pavel Novotný,Mechanical Keyboard,Accessories,Liberec,2,1738.79,0,3477.58,Card
+100605,2026-05-20,Josef Adeyemi,Smartphone Lite,Mobile,Brno,5,9902.74,0,49513.7,Card
+100606,2026-05-20,Jakub Zeman,Wireless Mouse,Accessories,Brno,2,465.86,0,931.72,Card
+100607,2026-05-20,Lucie Kadlec,Noise-Cancelling Headphones,Audio,Prague,2,4325.43,5,8218.32,Card
+100608,2026-05-20,Denisa Musa,Notebook,Office,Prague,8,91.98,0,735.84,Card
+100609,2026-05-20,Lukáš Schmidt,Notebook,Office,Brno,7,85.22,0,596.54,Card
+100610,2026-05-21,Veronika Novotný,USB-C Hub,Accessories,Plzeň,2,935.76,0,1871.52,Card
+100611,2026-05-21,Josef Blažek,Monitor 27,Electronics,Brno,2,6656.13,10,11981.03,PayPal
+100612,2026-05-21,Jakub Fiala,Monitor 27,Electronics,Brno,1,6346.13,20,5076.9,PayPal
+100613,2026-05-21,Jakub Musa,Laptop Air 13,Electronics,Liberec,1,26422.75,5,25101.61,Card
+100614,2026-05-21,Ifeoma Ibrahim,Bluetooth Speaker,Audio,Ostrava,1,1551.97,0,1551.97,PayPal
+100615,2026-05-21,Denisa Ibrahim,Monitor 27,Electronics,Ostrava,1,6682.88,10,6014.59,Card
+100616,2026-05-21,Chinedu Růžička,External SSD 1TB,Storage,Liberec,1,2156.7,0,2156.7,Card
+100617,2026-05-21,Daniel Müller,Notebook,Office,Olomouc,1,94.21,5,89.5,Card
+100618,2026-05-21,Zdeněk Veselý,USB-C Hub,Accessories,Prague,1,896.04,20,716.83,Card
+100619,2026-05-21,Ifeoma Procházka,External SSD 1TB,Storage,Prague,1,2049.01,0,2049.01,Card
+100620,2026-05-21,Tomáš Zeman,Laptop Pro 14,Electronics,Ostrava,3,33471.82,0,100415.46,Card
+100621,2026-05-22,Monika Horák,Phone Case,Mobile,Plzeň,2,297.26,0,594.52,Card
+100622,2026-05-22,Ondřej Jelínek,Noise-Cancelling Headphones,Audio,Prague,2,4413.64,0,8827.28,Card
+100623,2026-05-22,Tomáš Jelínek,Smartphone Lite,Mobile,Prague,1,9121.57,10,8209.41,Cash
+100624,2026-05-22,Tomáš Král,Noise-Cancelling Headphones,Audio,Prague,2,3929.2,0,7858.4,Cash
+100625,2026-05-22,Kateřina Král,Backpack,Accessories,Brno,3,1045.63,5,2980.05,Bank Transfer
+100626,2026-05-22,Kateřina Müller,Webcam HD,Electronics,Brno,2,1146.68,5,2178.69,PayPal
+100627,2026-05-23,David Růžička,Smartphone Lite,Mobile,Brno,2,9147.59,0,18295.18,Card
+100628,2026-05-23,Kwame Marek,Smartphone Lite,Mobile,Brno,5,9922.7,0,49613.5,PayPal
+100629,2026-05-23,Daniel Novák,Notebook,Office,Prague,2,92.21,0,184.42,Card
+100630,2026-05-23,Radek López,Backpack,Accessories,Prague,3,1048.87,10,2831.95,Card
+100631,2026-05-23,Chinedu Beneš,External SSD 1TB,Storage,Plzeň,1,2180.33,15,1853.28,Card
+100632,2026-05-23,Kateřina Müller,Monitor 27,Electronics,Prague,1,6089.87,0,6089.87,Card
+100633,2026-05-24,Ifeoma Schmidt,Laptop Air 13,Electronics,Olomouc,4,26832.04,0,107328.16,Cash
+100634,2026-05-24,Jan Černý,Wireless Mouse,Accessories,Olomouc,2,468.52,0,937.04,PayPal
+100635,2026-05-24,Milan Doležal,Notebook,Office,Prague,1,87.7,0,87.7,Card
+100636,2026-05-24,Milan Kadlec,Bluetooth Speaker,Audio,Prague,2,1526.79,15,2595.54,Card
+100637,2026-05-24,Hana Marek,Wireless Mouse,Accessories,Prague,3,480.63,0,1441.89,Card
+100638,2026-05-24,Chinedu Veselý,Phone Case,Mobile,Liberec,1,305.62,15,259.78,Card
+100639,2026-05-24,Pavel Horák,Bluetooth Speaker,Audio,Brno,4,1449.24,5,5507.11,Bank Transfer
+100640,2026-05-24,Pavel Novotný,Notebook,Office,Plzeň,5,90.39,0,451.95,PayPal
+100641,2026-05-25,Petra Černý,Monitor 27,Electronics,Prague,1,6162.28,0,6162.28,Bank Transfer
+100642,2026-05-25,Kristýna Novotný,Wireless Mouse,Accessories,Prague,5,471.1,0,2355.5,Card
+100643,2026-05-26,Daniel Novotný,Monitor 27,Electronics,Olomouc,1,6153.54,0,6153.54,PayPal
+100644,2026-05-26,Pavel Pokorný,Power Bank,Mobile,Ostrava,2,794.48,0,1588.96,Card
+100645,2026-05-26,Kateřina Müller,Wireless Mouse,Accessories,Brno,1,459.12,5,436.16,Card
+100646,2026-05-26,Tereza Čermák,Mechanical Keyboard,Accessories,Prague,2,1689.0,5,3209.1,Card
+100647,2026-05-27,Zdeněk Veselý,Power Bank,Mobile,Prague,1,890.72,0,890.72,Card
+100648,2026-05-27,Klára Král,Bluetooth Speaker,Audio,Plzeň,1,1578.75,0,1578.75,Bank Transfer
+100649,2026-05-27,Petr Pospíšil,Laptop Air 13,Electronics,Zlín,3,28770.89,0,86312.67,Bank Transfer
+100650,2026-05-27,Chinedu Beneš,Laptop Pro 14,Electronics,Prague,3,30459.56,5,86809.75,Card
+100651,2026-05-27,Luca Fiala,External SSD 1TB,Storage,Prague,1,2072.93,0,2072.93,Card
+100652,2026-05-27,Veronika Bartoš,Backpack,Accessories,Ostrava,2,1109.47,5,2107.99,PayPal
+100653,2026-05-28,Jan Procházka,Laptop Pro 14,Electronics,Ostrava,1,34083.27,5,32379.11,Bank Transfer
+100654,2026-05-28,Jan García,Bluetooth Speaker,Audio,Prague,2,1598.06,10,2876.51,Bank Transfer
+100655,2026-05-28,Chinedu Bianchi,Phone Case,Mobile,Brno,1,304.75,20,243.8,Card
+100656,2026-05-28,Klára Pospíšil,Phone Case,Mobile,Plzeň,1,297.44,0,297.44,PayPal
+100657,2026-05-28,Milan Jelínek,Wireless Mouse,Accessories,Olomouc,4,423.51,0,1694.04,PayPal
+100658,2026-05-28,Kateřina Růžička,Notebook,Office,Brno,3,95.35,0,286.05,Card
+100659,2026-05-28,Kateřina Müller,Noise-Cancelling Headphones,Audio,Brno,2,4378.64,20,7005.82,Card
+100660,2026-05-29,Klára Bartoš,USB-C Hub,Accessories,Ostrava,2,943.02,20,1508.83,Card
+100661,2026-05-29,Chinedu Pokorný,External SSD 1TB,Storage,Olomouc,1,2180.64,5,2071.61,Cash
+100662,2026-05-29,Ivana Okafor,Phone Case,Mobile,Prague,6,311.17,5,1773.67,Cash
+100663,2026-05-30,Klára Černý,Smartphone X,Mobile,Prague,5,19914.77,0,99573.85,Card
+100664,2026-05-30,Veronika Novák,Phone Case,Mobile,Brno,5,291.99,0,1459.95,Card
+100665,2026-05-31,Radek Kopecký,Smartphone Lite,Mobile,Brno,2,9226.95,5,17531.21,Card
+100666,2026-05-31,Vojtěch Bianchi,Monitor 27,Electronics,Liberec,1,6629.6,0,6629.6,Bank Transfer
+100667,2026-05-31,Jakub Fiala,Office Chair,Office,Prague,1,5282.94,0,5282.94,PayPal
+100668,2026-05-31,Tereza Pospíšil,External SSD 1TB,Storage,Zlín,1,2267.51,20,1814.01,Bank Transfer
+100669,2026-05-31,Anna Král,Notebook,Office,Plzeň,7,90.98,10,573.17,Card
+100670,2026-05-31,Ondřej Jelínek,Office Chair,Office,Brno,1,5163.31,0,5163.31,PayPal
+100671,2026-05-31,Ondřej Jelínek,Wireless Mouse,Accessories,Brno,1,456.41,0,456.41,Card
+100672,2026-05-31,Hana Růžička,Desk Lamp,Office,Ostrava,3,610.09,15,1555.73,Cash
+100673,2026-06-01,Eva Navrátil,Desk Lamp,Office,Prague,4,635.26,0,2541.04,Card
+100674,2026-06-01,Elena Bianchi,Smartphone Lite,Mobile,Prague,1,9746.23,0,9746.23,Card
+100675,2026-06-01,Sofia Pospíšil,Phone Case,Mobile,Zlín,3,288.85,0,866.55,Cash
+100676,2026-06-02,Jan Procházka,Mechanical Keyboard,Accessories,Ostrava,3,1909.22,0,5727.66,Card
+100677,2026-06-02,Hana Marek,Bluetooth Speaker,Audio,Brno,1,1405.32,10,1264.79,Card
+100678,2026-06-02,Pavel García,Backpack,Accessories,Prague,1,1162.22,5,1104.11,Bank Transfer
+100679,2026-06-02,Petr Bianchi,Bluetooth Speaker,Audio,Zlín,1,1522.46,10,1370.21,Card
+100680,2026-06-02,Daniel Růžička,Monitor 27,Electronics,Brno,2,6451.82,10,11613.28,Card
+100681,2026-06-03,Sofia Pospíšil,Mechanical Keyboard,Accessories,Olomouc,2,1831.47,10,3296.65,Card
+100682,2026-06-03,Daniel Beneš,Wireless Mouse,Accessories,Olomouc,4,428.5,15,1456.9,Cash
+100683,2026-06-03,Daniel Beneš,Notebook,Office,Prague,3,89.42,15,228.02,Card
+100684,2026-06-03,Pavel Horák,Noise-Cancelling Headphones,Audio,Ostrava,3,3997.91,0,11993.73,Card
+100685,2026-06-03,Hana Adeyemi,Phone Case,Mobile,Brno,1,315.37,10,283.83,Cash
+100686,2026-06-03,Tereza Čermák,External SSD 1TB,Storage,Ostrava,1,2134.59,0,2134.59,Card
+100687,2026-06-04,Klára Černý,Notebook,Office,Prague,1,84.58,10,76.12,PayPal
+100688,2026-06-04,Lukáš Dvořák,Power Bank,Mobile,Plzeň,1,865.27,0,865.27,Bank Transfer
+100689,2026-06-04,Kristýna Blažek,Smartphone X,Mobile,Prague,2,21802.39,20,34883.82,Card
+100690,2026-06-04,Tereza Horák,Backpack,Accessories,Prague,1,1136.9,10,1023.21,PayPal
+100691,2026-06-05,Petra Beneš,Laptop Air 13,Electronics,Ostrava,2,26591.42,0,53182.84,Card
+100692,2026-06-06,Lukáš Dvořák,Monitor 27,Electronics,Prague,1,6832.15,0,6832.15,Card
+100693,2026-06-06,Milan Dvořák,Wireless Mouse,Accessories,Prague,1,473.52,15,402.49,Card
+100694,2026-06-06,Jana Pospíšil,Mechanical Keyboard,Accessories,Prague,1,1744.88,0,1744.88,PayPal
+100695,2026-06-06,Vojtěch Bianchi,Phone Case,Mobile,Ostrava,7,313.55,5,2085.11,Card
+100696,2026-06-07,Fatima Růžička,Mechanical Keyboard,Accessories,Brno,1,1885.9,15,1603.02,Bank Transfer
+100697,2026-06-07,Lukáš Schmidt,Office Chair,Office,Prague,1,5390.1,0,5390.1,Card
+100698,2026-06-07,Klára Černý,Monitor 27,Electronics,Ostrava,1,6933.04,0,6933.04,Card
+100699,2026-06-07,Klára Pokorný,Wireless Mouse,Accessories,Prague,1,460.01,5,437.01,Bank Transfer
+100700,2026-06-07,Lucie Doležal,Power Bank,Mobile,Prague,2,812.06,0,1624.12,Bank Transfer
+100701,2026-06-08,Tomáš Sedláček,Office Chair,Office,Brno,3,5094.8,0,15284.4,Bank Transfer
+100702,2026-06-08,David Růžička,Bluetooth Speaker,Audio,Zlín,1,1510.2,0,1510.2,Card
+100703,2026-06-08,Veronika Novák,Office Chair,Office,Prague,1,5379.87,0,5379.87,Bank Transfer
+100704,2026-06-08,Zdeněk Veselý,Phone Case,Mobile,Ostrava,4,297.82,0,1191.28,PayPal
+100705,2026-06-08,Denisa Musa,Mechanical Keyboard,Accessories,Prague,3,1764.4,0,5293.2,Cash
+100706,2026-06-08,Monika García,Noise-Cancelling Headphones,Audio,Brno,2,3982.86,5,7567.43,Card
+100707,2026-06-08,Jana Pospíšil,Noise-Cancelling Headphones,Audio,Brno,1,4432.66,0,4432.66,Card
+100708,2026-06-09,Tomáš López,Office Chair,Office,Olomouc,1,5383.98,15,4576.38,Card
+100709,2026-06-09,Ifeoma Bartoš,USB-C Hub,Accessories,Liberec,2,848.78,0,1697.56,Bank Transfer
+100710,2026-06-10,Karel Beneš,Phone Case,Mobile,Prague,1,306.31,15,260.36,Card
+100711,2026-06-10,Hana Marek,Webcam HD,Electronics,Prague,2,1117.24,5,2122.76,Card
+100712,2026-06-11,Karel Doležal,Laptop Pro 14,Electronics,Prague,1,31567.59,10,28410.83,PayPal
+100713,2026-06-11,Kwame Jelínek,Bluetooth Speaker,Audio,Plzeň,4,1531.36,0,6125.44,Card
+100714,2026-06-11,Jana Pospíšil,Wireless Mouse,Accessories,Brno,1,419.42,0,419.42,Card
+100715,2026-06-11,Radek López,External SSD 1TB,Storage,Brno,2,2307.68,0,4615.36,Bank Transfer
+100716,2026-06-11,Daniel Čermák,Power Bank,Mobile,Brno,1,827.61,0,827.61,Card
+100717,2026-06-11,Ifeoma Sedláček,Mechanical Keyboard,Accessories,Prague,2,1897.0,0,3794.0,PayPal
+100718,2026-06-12,Pavel Horák,Phone Case,Mobile,Prague,1,296.43,0,296.43,Card
+100719,2026-06-12,Chinedu Navrátil,Phone Case,Mobile,Prague,2,279.16,5,530.4,Card
+100720,2026-06-12,Tomáš Sedláček,Wireless Mouse,Accessories,Plzeň,2,460.19,0,920.38,PayPal
+100721,2026-06-12,Klára Pokorný,Laptop Pro 14,Electronics,Prague,1,31604.63,5,30024.4,Bank Transfer
+100722,2026-06-12,David Růžička,Backpack,Accessories,Liberec,2,1116.43,5,2121.22,Cash
+100723,2026-06-12,Klára Král,Bluetooth Speaker,Audio,Prague,1,1557.93,0,1557.93,PayPal
+100724,2026-06-12,Barbora Dvořák,Notebook,Office,Prague,2,93.8,10,168.84,PayPal
+100725,2026-06-12,Hana Marek,External SSD 1TB,Storage,Prague,5,2071.94,5,9841.72,Bank Transfer
+100726,2026-06-13,Ondřej Jelínek,Phone Case,Mobile,Prague,5,308.17,10,1386.76,PayPal
+100727,2026-06-13,Ondřej Němec,Phone Case,Mobile,Prague,3,291.07,0,873.21,Bank Transfer
+100728,2026-06-13,Lucie Kadlec,Wireless Mouse,Accessories,Prague,3,473.78,0,1421.34,Card
+100729,2026-06-13,Pavel Horák,Monitor 27,Electronics,Brno,1,6263.29,0,6263.29,PayPal
+100730,2026-06-13,Josef Blažek,Mechanical Keyboard,Accessories,Liberec,2,1677.25,10,3019.05,Bank Transfer
+100731,2026-06-14,Hana Růžička,Notebook,Office,Prague,6,86.64,0,519.84,Card
+100732,2026-06-14,Elena Okafor,Bluetooth Speaker,Audio,Ostrava,2,1419.44,15,2413.05,Card
+100733,2026-06-14,Klára Pokorný,Webcam HD,Electronics,Plzeň,1,1223.9,5,1162.7,Bank Transfer
+100734,2026-06-15,Lucie Kadlec,Bluetooth Speaker,Audio,Brno,1,1431.54,0,1431.54,Bank Transfer
+100735,2026-06-15,Petr Pospíšil,Smartphone Lite,Mobile,Prague,3,9927.45,0,29782.35,PayPal
+100736,2026-06-15,Hana Sedláček,Monitor 27,Electronics,Plzeň,2,6884.54,0,13769.08,Card
+100737,2026-06-15,Amina Černý,Phone Case,Mobile,Prague,2,281.07,15,477.82,Card
+100738,2026-06-16,Kristýna Růžička,Noise-Cancelling Headphones,Audio,Ostrava,1,4427.19,20,3541.75,Bank Transfer
+100739,2026-06-16,Jana Černý,Monitor 27,Electronics,Brno,3,6410.36,0,19231.08,PayPal
+100740,2026-06-16,Jakub Fiala,Wireless Mouse,Accessories,Zlín,1,480.88,0,480.88,Card
+100741,2026-06-16,Kristýna Kopecký,Backpack,Accessories,Plzeň,1,1066.28,0,1066.28,Card
+100742,2026-06-17,Lukáš Schmidt,Power Bank,Mobile,Plzeň,3,886.31,0,2658.93,Card
+100743,2026-06-17,Lucie Adeyemi,Desk Lamp,Office,Prague,1,655.15,0,655.15,PayPal
+100744,2026-06-17,Anna López,Notebook,Office,Plzeň,2,89.18,10,160.52,Bank Transfer
+100745,2026-06-17,Kateřina Růžička,Mechanical Keyboard,Accessories,Brno,3,1841.09,10,4970.94,Card
+100746,2026-06-17,Hana Marek,Office Chair,Office,Olomouc,3,5345.1,0,16035.3,Bank Transfer
+100747,2026-06-18,Amina Fiala,Smartphone Lite,Mobile,Brno,2,9167.45,0,18334.9,Bank Transfer
+100748,2026-06-18,Pavel Novotný,Laptop Air 13,Electronics,Ostrava,1,28072.61,0,28072.61,Card
+100749,2026-06-19,Ifeoma Kučera,Mechanical Keyboard,Accessories,Zlín,3,1718.71,10,4640.52,Card
+100750,2026-06-19,Milan Dvořák,Wireless Mouse,Accessories,Brno,3,455.52,5,1298.23,Card
+100751,2026-06-19,Tomáš Jelínek,Monitor 27,Electronics,Liberec,2,6700.76,15,11391.29,Card
+100752,2026-06-19,Radek López,Power Bank,Mobile,Brno,1,797.01,0,797.01,Card
+100753,2026-06-19,Zdeněk Veselý,Bluetooth Speaker,Audio,Brno,4,1465.63,0,5862.52,PayPal
+100754,2026-06-20,Pavel Horák,Power Bank,Mobile,Prague,2,896.39,0,1792.78,Card
+100755,2026-06-20,Monika Kučera,Wireless Mouse,Accessories,Brno,3,422.76,15,1078.04,Card
+100756,2026-06-20,David Růžička,Notebook,Office,Olomouc,4,93.39,10,336.2,Bank Transfer
+100757,2026-06-21,Lucie Vaněk,Bluetooth Speaker,Audio,Brno,5,1466.85,0,7334.25,Card
+100758,2026-06-21,Youssef Doležal,External SSD 1TB,Storage,Brno,1,2067.09,15,1757.03,Bank Transfer
+100759,2026-06-21,Kwame Jelínek,USB-C Hub,Accessories,Olomouc,5,883.75,0,4418.75,Bank Transfer
+100760,2026-06-21,Tomáš Král,Power Bank,Mobile,Prague,1,834.28,0,834.28,PayPal
+100761,2026-06-22,Pavel Horák,Smartphone X,Mobile,Liberec,1,19644.11,0,19644.11,PayPal
+100762,2026-06-22,Nikola Hájek,Power Bank,Mobile,Brno,2,823.57,0,1647.14,PayPal
+100763,2026-06-22,Fatima Adeyemi,Smartphone X,Mobile,Liberec,2,20226.58,0,40453.16,Card
+100764,2026-06-23,Tereza Čermák,Webcam HD,Electronics,Brno,1,1190.27,0,1190.27,Card
+100765,2026-06-23,Denisa Ibrahim,Mechanical Keyboard,Accessories,Prague,2,1743.63,20,2789.81,Bank Transfer
+100766,2026-06-23,Kateřina Dvořák,Desk Lamp,Office,Prague,4,637.57,0,2550.28,PayPal
+100767,2026-06-24,Daniel Beneš,Backpack,Accessories,Ostrava,1,1124.8,0,1124.8,Card
+100768,2026-06-24,Ondřej Jelínek,Phone Case,Mobile,Prague,5,309.6,5,1470.6,Bank Transfer
+100769,2026-06-24,Hana Růžička,Notebook,Office,Liberec,2,88.6,0,177.2,Cash
+100770,2026-06-24,Sofia Pospíšil,Webcam HD,Electronics,Olomouc,1,1266.32,0,1266.32,PayPal
+100771,2026-06-25,Veronika Novotný,Monitor 27,Electronics,Prague,1,6681.04,0,6681.04,Card
+100772,2026-06-25,Denisa Ibrahim,Webcam HD,Electronics,Plzeň,1,1201.49,15,1021.27,Bank Transfer
+100773,2026-06-25,Klára Král,Laptop Pro 14,Electronics,Ostrava,2,31209.77,10,56177.59,Card
+100774,2026-06-26,Martin Rossi,Wireless Mouse,Accessories,Brno,2,460.5,5,874.95,Bank Transfer
+100775,2026-06-26,Petra Kadlec,Power Bank,Mobile,Ostrava,3,835.91,0,2507.73,Card
+100776,2026-06-26,Monika Fiala,Power Bank,Mobile,Prague,4,811.3,5,3082.94,Card
+100777,2026-06-26,Filip Navrátil,Wireless Mouse,Accessories,Brno,3,468.77,0,1406.31,Card
+100778,2026-06-26,Chinedu Beneš,Desk Lamp,Office,Prague,1,628.18,0,628.18,Card
+100779,2026-06-27,Milan Blažek,Wireless Mouse,Accessories,Plzeň,1,435.23,0,435.23,Bank Transfer
+100780,2026-06-27,Veronika Novotný,USB-C Hub,Accessories,Prague,2,890.6,0,1781.2,Bank Transfer
+100781,2026-06-27,Karel Beneš,Webcam HD,Electronics,Plzeň,4,1221.42,20,3908.54,Card
+100782,2026-06-27,Jana Pospíšil,USB-C Hub,Accessories,Prague,4,895.65,15,3045.21,Card
+100783,2026-06-28,Kateřina Müller,Smartphone Lite,Mobile,Prague,2,9403.8,0,18807.6,Card
+100784,2026-06-28,Monika Kučera,Smartphone Lite,Mobile,Prague,2,9858.1,0,19716.2,Card
+100785,2026-06-28,Monika Kučera,Noise-Cancelling Headphones,Audio,Brno,2,4110.01,10,7398.02,PayPal
+100786,2026-06-29,Pavel Bianchi,USB-C Hub,Accessories,Olomouc,3,904.79,20,2171.5,Card
+100787,2026-06-30,Zdeněk Veselý,Webcam HD,Electronics,Prague,1,1133.63,20,906.9,Bank Transfer
+100788,2026-06-30,Fatima Sedláček,Laptop Air 13,Electronics,Zlín,1,28870.59,5,27427.06,Card
+100789,2026-06-30,Petra Kadlec,Notebook,Office,Ostrava,8,90.52,0,724.16,Cash
+100790,2026-06-30,Monika Pokorný,Power Bank,Mobile,Prague,1,795.55,5,755.77,PayPal
+100791,2026-06-30,Ifeoma Kadlec,Mechanical Keyboard,Accessories,Plzeň,2,1849.13,10,3328.43,Bank Transfer
+100792,2026-07-01,Ivana Okafor,Notebook,Office,Prague,2,85.66,10,154.19,Card
+100793,2026-07-01,Daniel Beneš,Desk Lamp,Office,Ostrava,4,618.21,0,2472.84,Card
+100794,2026-07-01,Martin Vaněk,Laptop Air 13,Electronics,Prague,1,26255.83,0,26255.83,Cash
+100795,2026-07-01,Monika Kučera,Webcam HD,Electronics,Brno,2,1197.88,15,2036.4,Bank Transfer
+100796,2026-07-02,Lucie Kadlec,Bluetooth Speaker,Audio,Ostrava,4,1579.61,0,6318.44,Card
+100797,2026-07-03,Elena Schmidt,Laptop Air 13,Electronics,Plzeň,1,27463.23,0,27463.23,PayPal
+100798,2026-07-03,Tereza Pospíšil,Monitor 27,Electronics,Brno,2,6533.77,5,12414.16,Card
+100799,2026-07-03,Radek Kopecký,Noise-Cancelling Headphones,Audio,Brno,1,4137.48,0,4137.48,Cash
+100800,2026-07-03,Veronika Novák,Desk Lamp,Office,Prague,3,625.95,15,1596.17,PayPal
+100801,2026-07-03,Petra Schmidt,Bluetooth Speaker,Audio,Prague,1,1425.97,0,1425.97,Card
+100802,2026-07-04,Zdeněk Veselý,Backpack,Accessories,Prague,3,1176.3,0,3528.9,PayPal
+100803,2026-07-04,Martin Vaněk,Laptop Air 13,Electronics,Prague,1,25385.57,0,25385.57,Card
+100804,2026-07-04,Jana Kadlec,Bluetooth Speaker,Audio,Prague,2,1512.74,5,2874.21,Card
+100805,2026-07-04,Elena Němec,Phone Case,Mobile,Prague,2,317.06,20,507.3,Card
+100806,2026-07-04,Kateřina Dvořák,Office Chair,Office,Brno,3,5375.9,10,14514.93,Card
+100807,2026-07-04,Hana Okafor,Power Bank,Mobile,Plzeň,2,904.76,20,1447.62,Card
+100808,2026-07-05,Martin Rossi,Monitor 27,Electronics,Ostrava,3,6543.7,10,17667.99,Card
+100809,2026-07-05,Chinedu Veselý,Notebook,Office,Prague,7,87.03,5,578.75,Card
+100810,2026-07-06,Denisa Ibrahim,Backpack,Accessories,Prague,1,1094.45,20,875.56,Card
+100811,2026-07-06,Nikola Musa,Wireless Mouse,Accessories,Brno,3,449.67,10,1214.11,Card
+100812,2026-07-06,Radek López,Notebook,Office,Brno,3,91.09,0,273.27,Card
+100813,2026-07-07,Filip Navrátil,Noise-Cancelling Headphones,Audio,Prague,1,4438.79,0,4438.79,Bank Transfer
+100814,2026-07-07,Ondřej Kopecký,Phone Case,Mobile,Ostrava,7,317.25,0,2220.75,PayPal
+100815,2026-07-07,Fatima Dvořák,Power Bank,Mobile,Ostrava,5,840.21,5,3991.0,Card
+100816,2026-07-07,Pavel Bianchi,Wireless Mouse,Accessories,Plzeň,1,478.5,5,454.58,PayPal
+100817,2026-07-07,Fatima Zeman,USB-C Hub,Accessories,Brno,3,913.9,0,2741.7,Card
+100818,2026-07-08,Amina Němec,Wireless Mouse,Accessories,Prague,2,442.83,0,885.66,Cash
+100819,2026-07-08,Tomáš Sedláček,USB-C Hub,Accessories,Prague,1,890.14,0,890.14,Bank Transfer
+100820,2026-07-09,Chinedu Musa,Monitor 27,Electronics,Prague,2,6914.15,0,13828.3,Bank Transfer
+100821,2026-07-09,Milan Doležal,External SSD 1TB,Storage,Ostrava,4,2067.73,10,7443.83,PayPal
+100822,2026-07-09,Petr Pospíšil,Mechanical Keyboard,Accessories,Ostrava,1,1689.53,15,1436.1,Card
+100823,2026-07-09,Lukáš Schmidt,USB-C Hub,Accessories,Prague,3,945.2,10,2552.04,Bank Transfer
+100824,2026-07-09,Kristýna Sedláček,USB-C Hub,Accessories,Prague,3,924.4,5,2634.54,PayPal
+100825,2026-07-09,Eva Blažek,Bluetooth Speaker,Audio,Prague,2,1547.67,20,2476.27,Bank Transfer
+100826,2026-07-10,Elena Schmidt,USB-C Hub,Accessories,Prague,2,915.61,0,1831.22,PayPal
+100827,2026-07-10,Monika Fiala,Webcam HD,Electronics,Olomouc,2,1275.65,0,2551.3,Bank Transfer
+100828,2026-07-11,Aleš Veselý,Desk Lamp,Office,Prague,2,637.72,5,1211.67,Card
+100829,2026-07-11,Zdeněk Veselý,Phone Case,Mobile,Plzeň,2,320.66,0,641.32,Card
+100830,2026-07-11,Kristýna Novotný,Wireless Mouse,Accessories,Brno,4,460.62,0,1842.48,Card
+100831,2026-07-11,Monika Kučera,Smartphone Lite,Mobile,Brno,2,9756.53,5,18537.41,Card
+100832,2026-07-11,Lucie Doležal,External SSD 1TB,Storage,Brno,1,2047.77,0,2047.77,Bank Transfer
+100833,2026-07-11,Kwame Jelínek,Smartphone Lite,Mobile,Ostrava,4,9626.9,0,38507.6,Bank Transfer
+100834,2026-07-11,Filip Navrátil,Monitor 27,Electronics,Prague,1,6454.55,15,5486.37,Card
+100835,2026-07-12,Zdeněk Veselý,USB-C Hub,Accessories,Prague,1,905.33,5,860.06,Card
+100836,2026-07-12,Milan Dvořák,Mechanical Keyboard,Accessories,Olomouc,2,1727.44,0,3454.88,Cash
+100837,2026-07-12,Radek Jelínek,Wireless Mouse,Accessories,Ostrava,1,452.01,0,452.01,PayPal
+100838,2026-07-12,Michal Jelínek,Desk Lamp,Office,Prague,1,686.25,0,686.25,PayPal
+100839,2026-07-13,Vojtěch Kolář,Wireless Mouse,Accessories,Prague,2,459.91,15,781.85,Bank Transfer
+100840,2026-07-13,Sofia Beneš,Smartphone X,Mobile,Prague,1,22365.56,0,22365.56,PayPal
+100841,2026-07-13,Elena Pokorný,Bluetooth Speaker,Audio,Liberec,4,1458.69,0,5834.76,Bank Transfer
+100842,2026-07-14,Tomáš Bartoš,USB-C Hub,Accessories,Olomouc,1,930.68,10,837.61,Bank Transfer
+100843,2026-07-14,Daniel Růžička,Smartphone X,Mobile,Olomouc,1,21628.01,0,21628.01,Card
+100844,2026-07-15,Amina Němec,Bluetooth Speaker,Audio,Prague,3,1527.32,10,4123.76,Cash
+100845,2026-07-15,Tereza Novotný,Monitor 27,Electronics,Brno,2,6808.36,5,12935.88,PayPal
+100846,2026-07-15,Monika Němec,Phone Case,Mobile,Prague,5,283.73,0,1418.65,Card
+100847,2026-07-16,Daniel Novák,Desk Lamp,Office,Ostrava,2,646.21,0,1292.42,Card
+100848,2026-07-17,Zdeněk Veselý,Mechanical Keyboard,Accessories,Liberec,1,1898.22,0,1898.22,Bank Transfer
+100849,2026-07-17,Ondřej Bartoš,Wireless Mouse,Accessories,Brno,2,463.88,5,881.37,PayPal
+100850,2026-07-17,Elena Schmidt,Backpack,Accessories,Brno,4,1119.19,0,4476.76,Cash
+100851,2026-07-17,Petr Veselý,Power Bank,Mobile,Ostrava,3,798.27,5,2275.07,Card
+100852,2026-07-18,Tomáš Sedláček,Notebook,Office,Ostrava,3,95.93,0,287.79,PayPal
+100853,2026-07-19,Zdeněk Hájek,Webcam HD,Electronics,Prague,2,1167.82,0,2335.64,Card
+100854,2026-07-19,Jana Rossi,Power Bank,Mobile,Brno,1,802.09,5,761.99,Cash
+100855,2026-07-19,Daniel Schmidt,Bluetooth Speaker,Audio,Brno,2,1403.38,0,2806.76,Card
+100856,2026-07-19,David Kučera,Bluetooth Speaker,Audio,Liberec,1,1493.85,0,1493.85,Card
+100857,2026-07-20,Klára Král,Smartphone Lite,Mobile,Ostrava,1,9209.87,5,8749.38,PayPal
+100858,2026-07-20,Sofia Pospíšil,Webcam HD,Electronics,Zlín,3,1155.13,5,3292.12,Card
+100859,2026-07-21,Anna López,Webcam HD,Electronics,Ostrava,3,1215.52,0,3646.56,Bank Transfer
+100860,2026-07-21,Daniel Růžička,External SSD 1TB,Storage,Prague,4,2081.35,5,7909.13,PayPal
+100861,2026-07-21,Tomáš Král,Phone Case,Mobile,Plzeň,6,307.94,0,1847.64,Card
+100862,2026-07-21,Amina Kučera,Bluetooth Speaker,Audio,Prague,5,1422.12,5,6755.07,Bank Transfer
+100863,2026-07-21,Zdeněk Veselý,Notebook,Office,Prague,3,88.0,15,224.4,Bank Transfer
+100864,2026-07-21,Jana Růžička,Wireless Mouse,Accessories,Brno,1,479.2,0,479.2,Bank Transfer
+100865,2026-07-22,Petr Beneš,Power Bank,Mobile,Ostrava,5,813.93,20,3255.72,Cash
+100866,2026-07-23,Ifeoma Procházka,Bluetooth Speaker,Audio,Prague,2,1415.55,0,2831.1,Card
+100867,2026-07-25,Daniel Novák,Phone Case,Mobile,Plzeň,6,304.07,0,1824.42,Cash
+100868,2026-07-25,Milan Dvořák,Wireless Mouse,Accessories,Zlín,1,464.96,10,418.46,Card
+100869,2026-07-26,Veronika Novák,Smartphone X,Mobile,Ostrava,5,21319.2,0,106596.0,Card
+100870,2026-07-26,Monika Novák,Bluetooth Speaker,Audio,Prague,1,1525.07,0,1525.07,Bank Transfer
+100871,2026-07-26,Tereza Doležal,Desk Lamp,Office,Plzeň,4,615.99,0,2463.96,Card
+100872,2026-07-26,Denisa Ibrahim,Wireless Mouse,Accessories,Prague,2,480.19,10,864.34,Bank Transfer
+100873,2026-07-26,Luca Fiala,Monitor 27,Electronics,Plzeň,1,6485.93,0,6485.93,Card
+100874,2026-07-27,Youssef Dvořák,Smartphone X,Mobile,Prague,3,22013.66,5,62738.93,Card
+100875,2026-07-27,Tereza Černý,Phone Case,Mobile,Prague,3,312.59,0,937.77,Bank Transfer
+100876,2026-07-27,Pavel García,Power Bank,Mobile,Brno,1,816.53,10,734.88,Bank Transfer
+100877,2026-07-27,Amara Doležal,Wireless Mouse,Accessories,Plzeň,5,429.57,5,2040.46,Card
+100878,2026-07-27,Radek Rossi,Noise-Cancelling Headphones,Audio,Olomouc,2,4198.33,0,8396.66,Card
+100879,2026-07-27,Martin Vaněk,Monitor 27,Electronics,Prague,3,6751.05,10,18227.84,Bank Transfer
+100880,2026-07-27,Kristýna Veselý,External SSD 1TB,Storage,Prague,2,2081.54,0,4163.08,Card
+100881,2026-07-27,Monika Pokorný,Notebook,Office,Brno,1,88.39,0,88.39,PayPal
+100882,2026-07-27,Ondřej Kolář,Smartphone X,Mobile,Prague,1,20425.76,0,20425.76,Bank Transfer
+100883,2026-07-27,Klára Král,Phone Case,Mobile,Zlín,7,301.22,10,1897.69,Card
+100884,2026-07-28,Pavel Horák,Mechanical Keyboard,Accessories,Prague,1,1774.63,20,1419.7,PayPal
+100885,2026-07-28,Monika Kučera,Laptop Air 13,Electronics,Brno,2,27822.02,10,50079.64,Card
+100886,2026-07-29,Filip Beneš,Power Bank,Mobile,Prague,1,796.29,0,796.29,Bank Transfer
+100887,2026-07-29,Petr Beneš,External SSD 1TB,Storage,Plzeň,1,2105.29,15,1789.5,PayPal
+100888,2026-07-30,Pavel Pokorný,Wireless Mouse,Accessories,Prague,2,448.01,0,896.02,Card
+100889,2026-07-30,Klára Černý,Monitor 27,Electronics,Brno,2,6836.72,0,13673.44,Card
+100890,2026-07-30,Pavel Novotný,USB-C Hub,Accessories,Plzeň,3,921.12,10,2487.02,Card
+100891,2026-07-31,Veronika Černý,External SSD 1TB,Storage,Prague,3,2223.99,20,5337.58,Card
+100892,2026-07-31,Kwame Jelínek,Wireless Mouse,Accessories,Ostrava,2,419.29,0,838.58,PayPal
+100893,2026-07-31,Ivana Král,Smartphone X,Mobile,Prague,2,21182.71,0,42365.42,Bank Transfer
+100894,2026-08-01,Jakub Fiala,Mechanical Keyboard,Accessories,Ostrava,1,1731.96,0,1731.96,PayPal
+100895,2026-08-01,Lucie Kadlec,External SSD 1TB,Storage,Prague,1,2327.27,10,2094.54,Cash
+100896,2026-08-01,Tomáš Zeman,Mechanical Keyboard,Accessories,Liberec,4,1879.62,10,6766.63,Card
+100897,2026-08-02,Klára Černý,Phone Case,Mobile,Prague,6,320.84,10,1732.54,Bank Transfer
+100898,2026-08-02,Chinedu Musa,Phone Case,Mobile,Prague,4,313.0,0,1252.0,Card
+100899,2026-08-03,Anna Král,USB-C Hub,Accessories,Prague,1,930.8,0,930.8,PayPal
+100900,2026-08-03,Hana Marek,Smartphone X,Mobile,Brno,2,20930.43,0,41860.86,Card
+100901,2026-08-03,Petr Procházka,Phone Case,Mobile,Prague,7,283.62,0,1985.34,Card
+100902,2026-08-04,Sofia Černý,Smartphone X,Mobile,Prague,1,20876.51,0,20876.51,Card
+100903,2026-08-04,Daniel Čermák,Power Bank,Mobile,Prague,3,845.84,0,2537.52,Card
+100904,2026-08-05,Jan Zeman,Desk Lamp,Office,Prague,4,658.48,0,2633.92,Card
+100905,2026-08-05,Tomáš Král,Laptop Air 13,Electronics,Zlín,1,28426.38,0,28426.38,Card
+100906,2026-08-06,Karel Doležal,Webcam HD,Electronics,Olomouc,1,1247.65,5,1185.27,Cash
+100907,2026-08-06,Lucie Kadlec,USB-C Hub,Accessories,Ostrava,5,956.71,0,4783.55,Card
+100908,2026-08-07,Anna Král,Desk Lamp,Office,Brno,1,631.89,10,568.7,Card
+100909,2026-08-07,Milan Jelínek,Backpack,Accessories,Plzeň,3,1070.64,20,2569.54,Card
+100910,2026-08-07,Fatima Adeyemi,External SSD 1TB,Storage,Prague,1,2316.87,0,2316.87,Card
+100911,2026-08-07,Pavel Horák,Phone Case,Mobile,Brno,2,287.37,0,574.74,Card
+100912,2026-08-07,Luca Černý,External SSD 1TB,Storage,Prague,1,2313.95,10,2082.55,PayPal
+100913,2026-08-07,Anna Král,Backpack,Accessories,Ostrava,4,1123.74,0,4494.96,Card
+100914,2026-08-07,Fatima Dvořák,Wireless Mouse,Accessories,Plzeň,2,423.35,0,846.7,Bank Transfer
+100915,2026-08-07,Jakub Blažek,Smartphone X,Mobile,Olomouc,1,21916.71,0,21916.71,Card
+100916,2026-08-08,Jana Pospíšil,Office Chair,Office,Ostrava,3,5295.78,0,15887.34,Cash
+100917,2026-08-08,Sofia Pospíšil,Phone Case,Mobile,Brno,1,320.1,5,304.1,PayPal
+100918,2026-08-09,Monika Kučera,Wireless Mouse,Accessories,Brno,4,423.88,0,1695.52,Card
+100919,2026-08-09,Jana Pospíšil,Desk Lamp,Office,Plzeň,2,611.66,0,1223.32,Card
+100920,2026-08-09,Jan Černý,Power Bank,Mobile,Prague,2,853.93,0,1707.86,Card
+100921,2026-08-09,Ifeoma Schmidt,Phone Case,Mobile,Prague,4,283.35,15,963.39,Cash
+100922,2026-08-10,Anna Král,Notebook,Office,Ostrava,2,92.64,0,185.28,Card
+100923,2026-08-10,Ifeoma Vaněk,Monitor 27,Electronics,Prague,3,6410.84,10,17309.27,Card
+100924,2026-08-10,Elena Schmidt,Smartphone Lite,Mobile,Ostrava,1,9475.42,0,9475.42,Card
+100925,2026-08-10,Chinedu Veselý,Noise-Cancelling Headphones,Audio,Plzeň,4,4240.53,15,14417.8,Card
+100926,2026-08-10,Denisa Ibrahim,External SSD 1TB,Storage,Prague,3,2274.08,5,6481.13,PayPal
+100927,2026-08-11,Ondřej Bartoš,Mechanical Keyboard,Accessories,Prague,2,1851.0,20,2961.6,Bank Transfer
+100928,2026-08-12,Kateřina Růžička,Backpack,Accessories,Brno,1,1045.02,10,940.52,Card
+100929,2026-08-12,Chinedu Musa,Webcam HD,Electronics,Prague,1,1192.07,20,953.66,Bank Transfer
+100930,2026-08-12,Vojtěch Bianchi,Power Bank,Mobile,Olomouc,3,814.99,0,2444.97,Bank Transfer
+100931,2026-08-13,Daniel Beneš,Monitor 27,Electronics,Brno,1,6606.53,0,6606.53,PayPal
+100932,2026-08-13,Veronika Černý,Mechanical Keyboard,Accessories,Prague,3,1687.31,0,5061.93,Bank Transfer
+100933,2026-08-14,Luca Černý,Notebook,Office,Plzeň,3,86.46,5,246.41,Card
+100934,2026-08-14,Martin Dvořák,Wireless Mouse,Accessories,Brno,2,454.15,0,908.3,Bank Transfer
+100935,2026-08-14,Barbora Dvořák,Laptop Air 13,Electronics,Zlín,1,25209.67,10,22688.7,Card
+100936,2026-08-14,Ondřej Bartoš,External SSD 1TB,Storage,Prague,1,2089.47,10,1880.52,Bank Transfer
+100937,2026-08-15,Pavel Horák,Smartphone X,Mobile,Prague,3,20120.68,10,54325.84,Cash
+100938,2026-08-15,Petr Pospíšil,Backpack,Accessories,Plzeň,1,1097.29,10,987.56,Card
+100939,2026-08-15,Kristýna Blažek,Phone Case,Mobile,Prague,2,311.09,0,622.18,PayPal
+100940,2026-08-15,Kristýna Jelínek,External SSD 1TB,Storage,Ostrava,2,2213.43,0,4426.86,Card
+100941,2026-08-15,Pavel García,Laptop Air 13,Electronics,Prague,2,27911.44,10,50240.59,PayPal
+100942,2026-08-16,Klára Pokorný,Notebook,Office,Ostrava,4,88.26,0,353.04,Cash
+100943,2026-08-16,Tomáš Sedláček,Mechanical Keyboard,Accessories,Brno,1,1910.49,0,1910.49,PayPal
+100944,2026-08-16,Ondřej Jelínek,Phone Case,Mobile,Prague,2,314.47,10,566.05,Bank Transfer
+100945,2026-08-16,Lucie Růžička,Smartphone Lite,Mobile,Prague,1,9779.77,5,9290.78,Bank Transfer
+100946,2026-08-17,Milan Dvořák,Notebook,Office,Prague,2,87.2,20,139.52,PayPal
+100947,2026-08-17,Anna López,Noise-Cancelling Headphones,Audio,Brno,3,4001.86,5,11405.3,Card
+100948,2026-08-17,Amina Fiala,Webcam HD,Electronics,Prague,4,1219.8,0,4879.2,Cash
+100949,2026-08-17,Aleš Rossi,USB-C Hub,Accessories,Brno,1,953.45,0,953.45,Card
+100950,2026-08-17,Daniel Beneš,Smartphone X,Mobile,Ostrava,5,20311.83,0,101559.15,Bank Transfer
+100951,2026-08-17,Veronika Kopecký,Phone Case,Mobile,Ostrava,5,284.53,5,1351.52,Card
+100952,2026-08-17,Amina Fiala,USB-C Hub,Accessories,Prague,2,900.07,0,1800.14,Card
+100953,2026-08-18,Michal Kučera,Notebook,Office,Prague,1,84.68,0,84.68,Cash
+100954,2026-08-18,Jakub Rossi,Smartphone Lite,Mobile,Prague,4,9929.57,0,39718.28,Bank Transfer
+100955,2026-08-18,Kristýna Jelínek,Bluetooth Speaker,Audio,Brno,1,1525.23,0,1525.23,Card
+100956,2026-08-18,Klára Král,USB-C Hub,Accessories,Brno,1,953.05,0,953.05,PayPal
+100957,2026-08-19,Klára Černý,USB-C Hub,Accessories,Prague,4,900.71,15,3062.41,Card
+100958,2026-08-19,Youssef Doležal,Backpack,Accessories,Brno,1,1158.66,0,1158.66,Card
+100959,2026-08-20,Kwame Jelínek,Bluetooth Speaker,Audio,Prague,2,1583.57,5,3008.78,Card
+100960,2026-08-20,Adéla Kučera,USB-C Hub,Accessories,Prague,2,844.87,0,1689.74,Card
+100961,2026-08-20,Chinedu Musa,USB-C Hub,Accessories,Liberec,1,842.43,0,842.43,Card
+100962,2026-08-20,Marek Fiala,Wireless Mouse,Accessories,Prague,2,418.98,15,712.27,Cash
+100963,2026-08-20,Youssef Doležal,USB-C Hub,Accessories,Ostrava,1,874.36,10,786.92,Card
+100964,2026-08-21,Milan Blažek,Bluetooth Speaker,Audio,Prague,4,1441.96,0,5767.84,Bank Transfer
+100965,2026-08-21,Kristýna Jelínek,Mechanical Keyboard,Accessories,Prague,2,1881.34,0,3762.68,Bank Transfer
+100966,2026-08-21,Adéla Kučera,Mechanical Keyboard,Accessories,Prague,1,1892.89,20,1514.31,Cash
+100967,2026-08-21,Klára Pokorný,Phone Case,Mobile,Prague,4,290.15,5,1102.57,PayPal
+100968,2026-08-21,Petr Pospíšil,Laptop Pro 14,Electronics,Plzeň,2,30914.19,5,58736.96,Cash
+100969,2026-08-22,Fatima Adeyemi,Bluetooth Speaker,Audio,Prague,1,1496.0,0,1496.0,Bank Transfer
+100970,2026-08-22,Monika Horák,USB-C Hub,Accessories,Prague,2,837.89,10,1508.2,Card
+100971,2026-08-22,Zdeněk Hájek,Smartphone Lite,Mobile,Liberec,1,9566.8,5,9088.46,Bank Transfer
+100972,2026-08-22,Jakub Zeman,Webcam HD,Electronics,Zlín,1,1249.58,20,999.66,Card
+100973,2026-08-22,Aleš Veselý,Webcam HD,Electronics,Brno,2,1172.01,0,2344.02,Card
+100974,2026-08-22,Radek López,Wireless Mouse,Accessories,Olomouc,5,443.03,0,2215.15,PayPal
+100975,2026-08-23,Denisa Ibrahim,Desk Lamp,Office,Ostrava,4,644.88,0,2579.52,PayPal
+100976,2026-08-23,Pavel Kolář,Mechanical Keyboard,Accessories,Prague,1,1875.17,0,1875.17,Card
+100977,2026-08-24,Radek Rossi,Mechanical Keyboard,Accessories,Prague,3,1792.29,0,5376.87,Card
+100978,2026-08-24,Tomáš Jelínek,Noise-Cancelling Headphones,Audio,Prague,3,4070.91,0,12212.73,Bank Transfer
+100979,2026-08-25,Denisa Ibrahim,Laptop Pro 14,Electronics,Liberec,1,31702.45,5,30117.33,Card
+100980,2026-08-25,Denisa Musa,Mechanical Keyboard,Accessories,Prague,4,1892.84,0,7571.36,Card
+100981,2026-08-25,Kristýna Kopecký,Bluetooth Speaker,Audio,Prague,3,1403.83,15,3579.77,PayPal
+100982,2026-08-25,Pavel Horák,Phone Case,Mobile,Prague,1,318.39,0,318.39,Card
+100983,2026-08-26,Jan Procházka,Laptop Air 13,Electronics,Ostrava,2,27775.14,0,55550.28,Card
+100984,2026-08-26,Hana Marek,Webcam HD,Electronics,Plzeň,3,1268.87,0,3806.61,PayPal
+100985,2026-08-26,Nikola Musa,USB-C Hub,Accessories,Brno,1,918.62,15,780.83,Card
+100986,2026-08-27,Ivana Okafor,Laptop Air 13,Electronics,Plzeň,1,25733.0,5,24446.35,Card
+100987,2026-08-27,Monika Novák,Power Bank,Mobile,Brno,1,836.85,0,836.85,Card
+100988,2026-08-28,Kwame Rossi,Notebook,Office,Ostrava,3,88.79,5,253.05,Cash
+100989,2026-08-28,Monika García,Laptop Pro 14,Electronics,Brno,2,34024.12,10,61243.42,Bank Transfer
+100990,2026-08-28,Zdeněk Hájek,Wireless Mouse,Accessories,Zlín,2,474.64,5,901.82,Card
+100991,2026-08-28,Radek López,Notebook,Office,Brno,3,85.47,0,256.41,Cash
+100992,2026-08-29,Ondřej Bartoš,Power Bank,Mobile,Prague,1,799.5,0,799.5,Card
+100993,2026-08-29,Alena Jelínek,Power Bank,Mobile,Prague,2,867.81,0,1735.62,Card
+100994,2026-08-29,Ifeoma Čermák,Wireless Mouse,Accessories,Plzeň,1,450.09,0,450.09,PayPal
+100995,2026-08-29,Jan Zeman,Wireless Mouse,Accessories,Brno,1,477.13,10,429.42,PayPal
+100996,2026-08-30,Chinedu Bianchi,Noise-Cancelling Headphones,Audio,Plzeň,2,4351.84,0,8703.68,Card
+100997,2026-08-30,Ifeoma Ibrahim,Bluetooth Speaker,Audio,Brno,4,1546.63,0,6186.52,Card
+100998,2026-08-30,Michal García,External SSD 1TB,Storage,Brno,2,2271.04,0,4542.08,Cash
+100999,2026-08-31,Radek López,USB-C Hub,Accessories,Brno,1,887.49,15,754.37,Card
+101000,2026-08-31,Martin Dvořák,Power Bank,Mobile,Brno,4,838.92,10,3020.11,PayPal
